@@ -66,6 +66,19 @@ def clean_text(t):
     return t
 
 
+def sort_key(d):
+    '''
+    Key function for sorting.
+
+    Intended to ensure that lists of arbitrarily ordered entries are sorted
+    consistently (by date alone isn't enough since entries within a given date
+    may be rearranged, etc).
+    '''
+
+    return ('{inspection_date} {inspection_type} {inspection_score} {name} '
+            '{address_street} {address_suite} {address_zip}').format(**d)
+
+
 def inspections_by_zipcode(zipcode):
     '''
     Iterator to yield all inspections for the given zipcode.
@@ -178,7 +191,7 @@ def main(argv):
                 'inspection_type',
             ])
     cw.writeheader()
-    rows=sorted(rows, key=lambda r: r['inspection_date'])
+    rows=sorted(rows, key=sort_key)
     cw.writerows(rows)
 
 
