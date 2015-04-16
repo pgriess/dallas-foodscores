@@ -1,0 +1,88 @@
+#!/bin/env python3
+#
+# Copyright 2015 Peter Griess
+#
+# Licensed under the Apache License, Version 2.0 (the "License"); you may not
+# use this file except in compliance with the License.  You may obtain a copy
+# of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+# License for the specific language governing permissions and limitations under
+# the License.
+#
+# Render RSS and Atom feeds from a CSV of food inspection scores.
+
+import argparse
+import csv
+from feedgen.feed import FeedGenerator
+import hashlib
+import logging
+import sys
+
+def get_entries_to_feed(stream, num_entries):
+    '''
+    Yield a list of dicts for inspection events that should be rendered into the feed.
+    '''
+
+    cr = csv.DictReader(stream)
+    entries = sorted(iter(r for r in cr), key=lambda d: d['inspection_date'], reverse=True)
+    return entries[:num_entries]
+
+
+def main(argv):
+    ap = argparse.ArgumentParser(
+        description='''
+Render RSS and Atom feeds from a CSV of food inspection data.
+''')
+    ap.add_argument(
+        '-v', '--verbose', action='count', dest='verbosity', default=0,
+        help='increase global logging verbosity; can be used multiple times')
+    ap.add_argument(
+       '-f', '--format', choices=['rss', 'atom'], default='atom',
+       help='''
+specify the format to use when rendering the feed (default: %(default)s)')
+''')
+
+    args = ap.parse_args()
+
+    logging.basicConfig(
+            level=logging.ERROR - args.verbosity * 10,
+            style='{',
+            format='{}: {{message}}'.format(ap.prog))
+
+    fg = FeedGenerator()
+    fg.id('http://pgriess.github.io/dallas-foodscores/')
+    fg.link(href=fg.id(), rel='self')
+    fg.title('Dallas Food Inspection Scores')
+    fg.subtitle('''
+Food inspection scores from the official City of Dallas dataset; updated daily
+''')
+    fg.description(fg.subtitle())
+    fg.language('en')
+    fg.author(
+        name='Peter Griess',
+        email='pg@std.in',
+        uri='https://twitter.com/pgriess')
+
+    for e in get_entries_to_feed(sys.stdin, 10):
+        h = hashlib.sha1()
+        h.update(bytes('{name}/{address_street}/{inspection_date}'.format(**e), 'utf-8'))
+
+        fe = fg.add_entry()
+        fe.title('{name} at {address_street} scored {inspection_score}'.format(**e))
+        fe.id(fg.id() + '#!/' + h.hexdigest())
+        fe.link(href=fe.id(), rel='alternate')
+        fe.content(fe.title())
+
+    if args.format == 'atom':
+        print(fg.atom_str(pretty=True))
+    else:
+        print(fg.rss_str(pretty=True))
+
+
+if __name__ == '__main__':
+    main(sys.argv)
