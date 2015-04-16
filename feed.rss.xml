@@ -1,0 +1,75 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Dallas Food Inspection Scores</title>
+    <link>http://pgriess.github.io/dallas-foodscores/</link>
+    <description>
+Food inspection scores from the official City of Dallas dataset; updated daily
+</description>
+    <atom:link href="http://pgriess.github.io/dallas-foodscores/" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Apr 2015 15:44:29 +0000</lastBuildDate>
+    <item>
+      <title>8020 RESTAURANT at 2008 GREENVILLE AVE scored 81</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/faa39cb9ec7e156b3c2a6cdcf3cd67cb1cf4bb0d</link>
+      <description>8020 RESTAURANT at 2008 GREENVILLE AVE scored 81</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/faa39cb9ec7e156b3c2a6cdcf3cd67cb1cf4bb0d</guid>
+    </item>
+    <item>
+      <title>EIGHTY TWENTY ROOF BAR at 2008 GREENVILLE AVE scored 90</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/7e32172c9e14f92cde3b122d0c6531d238b16f5e</link>
+      <description>EIGHTY TWENTY ROOF BAR at 2008 GREENVILLE AVE scored 90</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/7e32172c9e14f92cde3b122d0c6531d238b16f5e</guid>
+    </item>
+    <item>
+      <title>NORA RESTAURANT at 1928 GREENVILLE AVE scored 84</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/4b938f4aa4722e7b4627d32dc44ffd90fe1e4173</link>
+      <description>NORA RESTAURANT at 1928 GREENVILLE AVE scored 84</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/4b938f4aa4722e7b4627d32dc44ffd90fe1e4173</guid>
+    </item>
+    <item>
+      <title>REMEDY RESTAURANT LLC at 2010 GREENVILLE AVE scored 85</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/a1ccc8b79c07b42f26b43389707adef458f10ca6</link>
+      <description>REMEDY RESTAURANT LLC at 2010 GREENVILLE AVE scored 85</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/a1ccc8b79c07b42f26b43389707adef458f10ca6</guid>
+    </item>
+    <item>
+      <title>ENO'S PIZZA TAVERN at 407 N BISHOP AVE scored 80</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/6cc53faa0a50e0f622881e25d52556c7adbd3d64</link>
+      <description>ENO'S PIZZA TAVERN at 407 N BISHOP AVE scored 80</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/6cc53faa0a50e0f622881e25d52556c7adbd3d64</guid>
+    </item>
+    <item>
+      <title>AMIGO'S FOOD STORE at 722 S BEACON ST scored 81</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/c64baed250df163d124ba46975bed8e69595a694</link>
+      <description>AMIGO'S FOOD STORE at 722 S BEACON ST scored 81</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/c64baed250df163d124ba46975bed8e69595a694</guid>
+    </item>
+    <item>
+      <title>CHURCH'S CHICKEN #119 at 5503 EAST GRAND AVE scored 84</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/f276bad4187244f5423237f934dbf0e84b0113df</link>
+      <description>CHURCH'S CHICKEN #119 at 5503 EAST GRAND AVE scored 84</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/f276bad4187244f5423237f934dbf0e84b0113df</guid>
+    </item>
+    <item>
+      <title>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/20494c41109d403d5a94c41e19c028d95140d8aa</link>
+      <description>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/20494c41109d403d5a94c41e19c028d95140d8aa</guid>
+    </item>
+    <item>
+      <title>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/7f6f7c0c138035a098189ba3ad3d765f992e8b64</link>
+      <description>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/7f6f7c0c138035a098189ba3ad3d765f992e8b64</guid>
+    </item>
+    <item>
+      <title>CONNER ELEMENTARY SCHOOL at 3037 GREENMEADOW DR scored 86</title>
+      <link>http://pgriess.github.io/dallas-foodscores/#!/ea08b67ee232636b8b73176c2025b45b385af394</link>
+      <description>CONNER ELEMENTARY SCHOOL at 3037 GREENMEADOW DR scored 86</description>
+      <guid isPermaLink="false">http://pgriess.github.io/dallas-foodscores/#!/ea08b67ee232636b8b73176c2025b45b385af394</guid>
+    </item>
+  </channel>
+</rss>
+
