@@ -15,6 +15,9 @@
 # the License.
 #
 # Render RSS and Atom feeds from a CSV of food inspection scores.
+#
+# XXX: Need to use the inspection date for feed items, rather than the render
+#      date.
 
 import argparse
 import csv
