@@ -60,6 +60,9 @@ Render RSS and Atom feeds from a CSV of food inspection data.
        help='''
 specify the format to use when rendering the feed (default: %(default)s)')
 ''')
+    ap.add_argument(
+        '-n', '--num_incidents', metavar='<num>', type=int, default=10,
+        help='render <num> recent incidents in the feed (default: %(default)s)')
 
     args = ap.parse_args()
 
@@ -82,7 +85,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
         email='pg@std.in',
         uri='https://twitter.com/pgriess')
 
-    for i in get_inspections_to_feed(sys.stdin, 10):
+    for i in get_inspections_to_feed(sys.stdin, args.num_incidents):
         fe = fg.add_entry()
         fe.title('{name} at {address} scored {score}'.format(
             name=i.name, address=i.address, score=i.score))
