@@ -50,17 +50,17 @@ inputs. Writes outout CSV to stdout.
             style='{',
             format='{}: {{message}}'.format(ap.prog))
 
-    incidents = set()
+    inspections = set()
     for cfp in args.files:
         with open(cfp, encoding='utf-8') as cf:
             cr = csv.DictReader(cf)
-            incidents |= set(foodscores.Inspection.from_dict(r) for r in cr)
+            inspections |= set(foodscores.Inspection.from_dict(r) for r in cr)
 
     cw = csv.DictWriter(
             sys.stdout,
             fieldnames=foodscores.Inspection.FIELDNAMES)
     cw.writeheader()
-    cw.writerows(r.to_dict() for r in sorted(incidents))
+    cw.writerows(r.to_dict() for r in sorted(inspections))
 
 
 if __name__ == '__main__':
