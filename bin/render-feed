@@ -15,9 +15,6 @@
 # the License.
 #
 # Render RSS and Atom feeds from a CSV of food inspection scores.
-#
-# XXX: Need to use the inspection date for feed items, rather than the render
-#      date.
 
 import argparse
 import csv
@@ -25,6 +22,7 @@ from feedgen.feed import FeedGenerator
 import hashlib
 import logging
 import os.path
+import pytz
 import sys
 
 sys.path += [
@@ -35,6 +33,8 @@ sys.path += [
 ]
 
 import foodscores
+
+TZ = pytz.timezone('US/Central')
 
 def get_inspections_to_feed(stream, num_entries):
     '''
@@ -89,6 +89,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
         fe.id(fg.id() + '#!/' + str(abs(hash(i))))
         fe.link(href=fe.id(), rel='alternate')
         fe.content(fe.title())
+        fe.published(TZ.localize(i.date))
 
     if args.format == 'atom':
         print(fg.atom_str(pretty=True))
