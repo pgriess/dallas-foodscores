@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://pgriess.github.io/dallas-foodscores/</id>
   <title>Dallas Food Inspection Scores</title>
-  <updated>2015-04-16T15:44:35.966587+00:00</updated>
+  <updated>2015-04-19T20:54:25.468929+00:00</updated>
   <author>
     <name>Peter Griess</name>
     <email>pg@std.in</email>
@@ -13,74 +13,84 @@
 Food inspection scores from the official City of Dallas dataset; updated daily
 </subtitle>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/faa39cb9ec7e156b3c2a6cdcf3cd67cb1cf4bb0d</id>
-    <title>8020 RESTAURANT at 2008 GREENVILLE AVE scored 81</title>
-    <updated>2015-04-16T15:44:36.137213+00:00</updated>
-    <content>8020 RESTAURANT at 2008 GREENVILLE AVE scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/faa39cb9ec7e156b3c2a6cdcf3cd67cb1cf4bb0d" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5951376588528861690</id>
+    <title>STEPHEN C. FOSTER ELEMENTARY AUXILIARY KITCHEN at 3700 CLOVER LN scored 100</title>
+    <updated>2015-04-19T20:54:26.097343+00:00</updated>
+    <content>STEPHEN C. FOSTER ELEMENTARY AUXILIARY KITCHEN at 3700 CLOVER LN scored 100</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5951376588528861690" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7e32172c9e14f92cde3b122d0c6531d238b16f5e</id>
-    <title>EIGHTY TWENTY ROOF BAR at 2008 GREENVILLE AVE scored 90</title>
-    <updated>2015-04-16T15:44:36.137300+00:00</updated>
-    <content>EIGHTY TWENTY ROOF BAR at 2008 GREENVILLE AVE scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7e32172c9e14f92cde3b122d0c6531d238b16f5e" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8155634173120983285</id>
+    <title>STEPHEN C. FOSTER ELEMENTARY at 3700 CLOVER LN scored 97</title>
+    <updated>2015-04-19T20:54:26.097481+00:00</updated>
+    <content>STEPHEN C. FOSTER ELEMENTARY at 3700 CLOVER LN scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8155634173120983285" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4b938f4aa4722e7b4627d32dc44ffd90fe1e4173</id>
-    <title>NORA RESTAURANT at 1928 GREENVILLE AVE scored 84</title>
-    <updated>2015-04-16T15:44:36.137330+00:00</updated>
-    <content>NORA RESTAURANT at 1928 GREENVILLE AVE scored 84</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4b938f4aa4722e7b4627d32dc44ffd90fe1e4173" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/930972876212961755</id>
+    <title>HARGROVE PREP - WARMING KITCHEN at 9411 HARGROVE DR scored 92</title>
+    <updated>2015-04-19T20:54:26.097546+00:00</updated>
+    <content>HARGROVE PREP - WARMING KITCHEN at 9411 HARGROVE DR scored 92</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/930972876212961755" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/a1ccc8b79c07b42f26b43389707adef458f10ca6</id>
-    <title>REMEDY RESTAURANT LLC at 2010 GREENVILLE AVE scored 85</title>
-    <updated>2015-04-16T15:44:36.137356+00:00</updated>
-    <content>REMEDY RESTAURANT LLC at 2010 GREENVILLE AVE scored 85</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/a1ccc8b79c07b42f26b43389707adef458f10ca6" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6193830974733121673</id>
+    <title>URBAN PARK ELEMENTARY at 6901 MILITARY PKWY scored 88</title>
+    <updated>2015-04-19T20:54:26.097606+00:00</updated>
+    <content>URBAN PARK ELEMENTARY at 6901 MILITARY PKWY scored 88</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6193830974733121673" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6cc53faa0a50e0f622881e25d52556c7adbd3d64</id>
-    <title>ENO'S PIZZA TAVERN at 407 N BISHOP AVE scored 80</title>
-    <updated>2015-04-16T15:44:36.137381+00:00</updated>
-    <content>ENO'S PIZZA TAVERN at 407 N BISHOP AVE scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6cc53faa0a50e0f622881e25d52556c7adbd3d64" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4376643793212144485</id>
+    <title>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 86</title>
+    <updated>2015-04-19T20:54:26.097665+00:00</updated>
+    <content>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 86</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4376643793212144485" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/c64baed250df163d124ba46975bed8e69595a694</id>
-    <title>AMIGO'S FOOD STORE at 722 S BEACON ST scored 81</title>
-    <updated>2015-04-16T15:44:36.137407+00:00</updated>
-    <content>AMIGO'S FOOD STORE at 722 S BEACON ST scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/c64baed250df163d124ba46975bed8e69595a694" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6248126704506581538</id>
+    <title>THE JUICE BAR at 5560 W LOVERS LN scored 86</title>
+    <updated>2015-04-19T20:54:26.097724+00:00</updated>
+    <content>THE JUICE BAR at 5560 W LOVERS LN scored 86</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6248126704506581538" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/f276bad4187244f5423237f934dbf0e84b0113df</id>
-    <title>CHURCH'S CHICKEN #119 at 5503 EAST GRAND AVE scored 84</title>
-    <updated>2015-04-16T15:44:36.137433+00:00</updated>
-    <content>CHURCH'S CHICKEN #119 at 5503 EAST GRAND AVE scored 84</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/f276bad4187244f5423237f934dbf0e84b0113df" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/297642490243238418</id>
+    <title>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 86</title>
+    <updated>2015-04-19T20:54:26.097782+00:00</updated>
+    <content>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 86</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/297642490243238418" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/20494c41109d403d5a94c41e19c028d95140d8aa</id>
-    <title>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</title>
-    <updated>2015-04-16T15:44:36.137458+00:00</updated>
-    <content>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/20494c41109d403d5a94c41e19c028d95140d8aa" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8284196741342058816</id>
+    <title>POPEYES at 18311 MARSH LN scored 82</title>
+    <updated>2015-04-19T20:54:26.097839+00:00</updated>
+    <content>POPEYES at 18311 MARSH LN scored 82</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8284196741342058816" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7f6f7c0c138035a098189ba3ad3d765f992e8b64</id>
-    <title>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</title>
-    <updated>2015-04-16T15:44:36.137483+00:00</updated>
-    <content>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7f6f7c0c138035a098189ba3ad3d765f992e8b64" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6690735035821833255</id>
+    <title>RACETRAC PETROLEUM #609 at 4510 TRINITY MILLS RD scored 81</title>
+    <updated>2015-04-19T20:54:26.097896+00:00</updated>
+    <content>RACETRAC PETROLEUM #609 at 4510 TRINITY MILLS RD scored 81</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6690735035821833255" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/ea08b67ee232636b8b73176c2025b45b385af394</id>
-    <title>CONNER ELEMENTARY SCHOOL at 3037 GREENMEADOW DR scored 86</title>
-    <updated>2015-04-16T15:44:36.137514+00:00</updated>
-    <content>CONNER ELEMENTARY SCHOOL at 3037 GREENMEADOW DR scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/ea08b67ee232636b8b73176c2025b45b385af394" rel="alternate"/>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5813708584532216365</id>
+    <title>LAS HUASTECAS at 4003 URBAN AVE scored 81</title>
+    <updated>2015-04-19T20:54:26.097953+00:00</updated>
+    <content>LAS HUASTECAS at 4003 URBAN AVE scored 81</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5813708584532216365" rel="alternate"/>
+    <published>2015-04-17T00:00:00-05:00</published>
   </entry>
 </feed>
 
