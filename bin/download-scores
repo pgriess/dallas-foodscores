@@ -177,15 +177,7 @@ def main(argv):
 
     cw = csv.DictWriter(
             sys.stdout,
-            fieldnames=[
-                'name',
-                'address_street',
-                'address_suite',
-                'address_zip',
-                'inspection_date',
-                'inspection_score',
-                'inspection_type',
-            ])
+            fieldnames=foodscores.Inspection.FIELDNAMES)
     cw.writeheader()
     cw.writerows(i.to_dict() for i in sorted(incidents))
 

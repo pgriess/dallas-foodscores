@@ -18,10 +18,22 @@ Misc. utilities.
 
 import datetime
 
+# XXX: Probably not ideal for this to define the CSV serialization field names,
+#      but whatever.
 class Inspection(object):
     '''
     Object tracking a single inspection incident.
     '''
+
+    FIELDNAMES = [
+            'name',
+            'address_street',
+            'address_suite',
+            'address_zip',
+            'inspection_date',
+            'inspection_score',
+            'inspection_type'
+    ]
 
     def __init__(self, name, address, suite, zipcode, date, score,
                  inspection_type):
