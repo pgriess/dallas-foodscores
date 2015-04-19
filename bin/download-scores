@@ -188,7 +188,7 @@ def main(argv):
             ])
     cw.writeheader()
     rows=sorted(rows)
-    cw.writerows(r.as_dict() for r in rows)
+    cw.writerows(r.to_dict() for r in rows)
 
 
 if __name__ == '__main__':

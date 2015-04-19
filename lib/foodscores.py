@@ -16,6 +16,8 @@
 Misc. utilities.
 '''
 
+import datetime
+
 class Inspection(object):
     '''
     Object tracking a single inspection incident.
@@ -31,7 +33,7 @@ class Inspection(object):
         self.score = score
         self.inspection_type = inspection_type
 
-    def as_dict(self):
+    def to_dict(self):
         return {
                 'name': self.name,
                 'address_street': self.address,
@@ -41,6 +43,17 @@ class Inspection(object):
                 'inspection_score': self.score,
                 'inspection_type': self.inspection_type,
         }
+
+    @staticmethod
+    def from_dict(d):
+        return Inspection(
+                name=d['name'],
+                address=d['address_street'],
+                suite=d['address_suite'],
+                zipcode=d['address_zip'],
+                date=datetime.datetime.strptime(d['inspection_date'], '%Y-%m-%d'),
+                score=int(d['inspection_score']),
+                inspection_type=d['inspection_type'])
 
 
     def __eq__(self, other):
