@@ -1,0 +1,67 @@
+#!/bin/env python3
+#
+# Copyright 2015 Peter Griess
+#
+# Licensed under the Apache License, Version 2.0 (the "License"); you may not
+# use this file except in compliance with the License.  You may obtain a copy
+# of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+# License for the specific language governing permissions and limitations under
+# the License.
+
+import argparse
+import datetime
+import csv
+import logging
+import os.path
+import sys
+
+sys.path += [
+        os.path.join(
+            os.path.dirname(sys.argv[0]),
+            '..',
+            'lib')
+]
+
+import foodscores
+
+def main(argv):
+    ap = argparse.ArgumentParser(
+        description='''
+Given CSV files from download-scores, emit a CSV file that is the union of all
+inputs. Writes outout CSV to stdout.
+''')
+    ap.add_argument(
+        'files', nargs='+', metavar='file', default=[],
+        help='CSV file to combine')
+    ap.add_argument(
+        '-v', '--verbose', action='count', dest='verbosity', default=0,
+        help='increase global logging verbosity; can be used multiple times')
+
+    args = ap.parse_args()
+
+    logging.basicConfig(
+            level=logging.ERROR - args.verbosity * 10,
+            style='{',
+            format='{}: {{message}}'.format(ap.prog))
+
+    incidents = set()
+    for cfp in args.files:
+        with open(cfp, encoding='utf-8') as cf:
+            cr = csv.DictReader(cf)
+            incidents |= set(foodscores.Inspection.from_dict(r) for r in cr)
+
+    cw = csv.DictWriter(
+            sys.stdout,
+            fieldnames=foodscores.Inspection.FIELDNAMES)
+    cw.writeheader()
+    cw.writerows(r.to_dict() for r in sorted(incidents))
+
+
+if __name__ == '__main__':
+    main(sys.argv)
