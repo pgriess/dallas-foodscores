@@ -24,16 +24,27 @@ import csv
 from feedgen.feed import FeedGenerator
 import hashlib
 import logging
+import os.path
 import sys
 
-def get_entries_to_feed(stream, num_entries):
+sys.path += [
+        os.path.join(
+            os.path.dirname(sys.argv[0]),
+            '..',
+            'lib')
+]
+
+import foodscores
+
+def get_inspections_to_feed(stream, num_entries):
     '''
-    Yield a list of dicts for inspection events that should be rendered into the feed.
+    Yield a list of Inspection objects that should be rendered into the feed.
     '''
 
     cr = csv.DictReader(stream)
-    entries = sorted(iter(r for r in cr), key=lambda d: d['inspection_date'], reverse=True)
-    return entries[:num_entries]
+    inspections = sorted(
+            [foodscores.Inspection.from_dict(r) for r in cr], reverse=True)
+    return inspections[:num_entries]
 
 
 def main(argv):
@@ -71,13 +82,11 @@ Food inspection scores from the official City of Dallas dataset; updated daily
         email='pg@std.in',
         uri='https://twitter.com/pgriess')
 
-    for e in get_entries_to_feed(sys.stdin, 10):
-        h = hashlib.sha1()
-        h.update(bytes('{name}/{address_street}/{inspection_date}'.format(**e), 'utf-8'))
-
+    for i in get_inspections_to_feed(sys.stdin, 10):
         fe = fg.add_entry()
-        fe.title('{name} at {address_street} scored {inspection_score}'.format(**e))
-        fe.id(fg.id() + '#!/' + h.hexdigest())
+        fe.title('{name} at {address} scored {score}'.format(
+            name=i.name, address=i.address, score=i.score))
+        fe.id(fg.id() + '#!/' + str(abs(hash(i))))
         fe.link(href=fe.id(), rel='alternate')
         fe.content(fe.title())
 
