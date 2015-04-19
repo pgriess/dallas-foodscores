@@ -29,10 +29,21 @@ import http.cookiejar
 import io
 import logging
 import lxml.etree
+import os.path
 import urllib.parse
 import urllib.request
 import re
 import sys
+
+sys.path += [
+        os.path.join(
+            os.path.dirname(sys.argv[0]),
+            '..',
+            'lib')
+]
+
+import foodscores
+
 
 def node_text(n):
     '''
@@ -64,19 +75,6 @@ def clean_text(t):
     t = re.sub(r'\s+', ' ', t.strip())
 
     return t
-
-
-def sort_key(d):
-    '''
-    Key function for sorting.
-
-    Intended to ensure that lists of arbitrarily ordered entries are sorted
-    consistently (by date alone isn't enough since entries within a given date
-    may be rearranged, etc).
-    '''
-
-    return ('{inspection_date} {inspection_type} {inspection_score} {name} '
-            '{address_street} {address_suite} {address_zip}').format(**d)
 
 
 def inspections_by_zipcode(zipcode):
@@ -127,16 +125,14 @@ def inspections_by_zipcode(zipcode):
                             fields,
                             [clean_text(node_text(td)) for td in tr.xpath('td')]))
 
-                yield {
-                    'name': d['Name'],
-                    'address_street': d['Address'],
-                    'address_suite': d['Suite#'],
-                    'address_zip': d['Zip'],
-                    'inspection_date': datetime.datetime.strptime(
-                        d['Inspected'],
-                        '%m/%d/%Y').strftime('%Y-%m-%d'),
-                    'inspection_score': d['Score'],
-                    'inspection_type': d['Inspection Type'].lower()}
+                yield foodscores.Inspection(
+                    name=d['Name'],
+                    address=d['Address'],
+                    suite=d['Suite#'],
+                    zipcode=d['Zip'],
+                    date=datetime.datetime.strptime(d['Inspected'], '%m/%d/%Y'),
+                    score=int(d['Score']),
+                    inspection_type=d['Inspection Type'].lower())
 
             if not et.xpath('//a[text()="Next"]'):
                 break
@@ -191,8 +187,8 @@ def main(argv):
                 'inspection_type',
             ])
     cw.writeheader()
-    rows=sorted(rows, key=sort_key)
-    cw.writerows(rows)
+    rows=sorted(rows)
+    cw.writerows(r.as_dict() for r in rows)
 
 
 if __name__ == '__main__':
