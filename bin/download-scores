@@ -161,7 +161,7 @@ def main(argv):
     od.add_handler(urllib.request.HTTPCookieProcessor())
     od.add_handler(urllib.request.HTTPHandler())
 
-    rows = []
+    incidents = set()
     for z in [
             75201, 75202, 75203, 75204, 75205,
             75206, 75207, 75208, 75209, 75210,
@@ -173,7 +173,7 @@ def main(argv):
             75238, 75240, 75241, 75243, 75244,
             75246, 75247, 75248, 75249, 75250,
             75251, 75252, 75253, 75254, 75287]:
-        rows += [r for r in inspections_by_zipcode(z)]
+        incidents |= set(r for r in inspections_by_zipcode(z))
 
     cw = csv.DictWriter(
             sys.stdout,
@@ -187,8 +187,7 @@ def main(argv):
                 'inspection_type',
             ])
     cw.writeheader()
-    rows=sorted(rows)
-    cw.writerows(r.to_dict() for r in rows)
+    cw.writerows(i.to_dict() for i in sorted(incidents))
 
 
 if __name__ == '__main__':
