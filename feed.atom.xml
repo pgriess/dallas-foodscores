@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://pgriess.github.io/dallas-foodscores/</id>
   <title>Dallas Food Inspection Scores</title>
-  <updated>2015-04-19T21:02:16.573432+00:00</updated>
+  <updated>2015-04-20T14:45:00.140584+00:00</updated>
   <author>
     <name>Peter Griess</name>
     <email>pg@std.in</email>
@@ -13,803 +13,803 @@
 Food inspection scores from the official City of Dallas dataset; updated daily
 </subtitle>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1568019649226874922</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/9143039338759175269</id>
     <title>STEPHEN C. FOSTER ELEMENTARY AUXILIARY KITCHEN at 3700 CLOVER LN scored 100</title>
-    <updated>2015-04-19T21:02:17.198889+00:00</updated>
+    <updated>2015-04-20T14:45:00.846504+00:00</updated>
     <content>STEPHEN C. FOSTER ELEMENTARY AUXILIARY KITCHEN at 3700 CLOVER LN scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1568019649226874922" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/9143039338759175269" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4384315047346401108</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8598709814243000927</id>
     <title>STEPHEN C. FOSTER ELEMENTARY at 3700 CLOVER LN scored 97</title>
-    <updated>2015-04-19T21:02:17.199035+00:00</updated>
+    <updated>2015-04-20T14:45:00.846661+00:00</updated>
     <content>STEPHEN C. FOSTER ELEMENTARY at 3700 CLOVER LN scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4384315047346401108" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8598709814243000927" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/88104495226404523</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8985702341901361986</id>
     <title>HARGROVE PREP - WARMING KITCHEN at 9411 HARGROVE DR scored 92</title>
-    <updated>2015-04-19T21:02:17.199101+00:00</updated>
+    <updated>2015-04-20T14:45:00.846735+00:00</updated>
     <content>HARGROVE PREP - WARMING KITCHEN at 9411 HARGROVE DR scored 92</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/88104495226404523" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8985702341901361986" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1010078901382845283</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3290577646180528587</id>
     <title>URBAN PARK ELEMENTARY at 6901 MILITARY PKWY scored 88</title>
-    <updated>2015-04-19T21:02:17.199164+00:00</updated>
+    <updated>2015-04-20T14:45:00.846804+00:00</updated>
     <content>URBAN PARK ELEMENTARY at 6901 MILITARY PKWY scored 88</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1010078901382845283" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3290577646180528587" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8716333401409265334</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5647182301510590430</id>
     <title>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 86</title>
-    <updated>2015-04-19T21:02:17.199226+00:00</updated>
+    <updated>2015-04-20T14:45:00.846871+00:00</updated>
     <content>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8716333401409265334" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5647182301510590430" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/783420603474268756</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1560172377094764457</id>
     <title>THE JUICE BAR at 5560 W LOVERS LN scored 86</title>
-    <updated>2015-04-19T21:02:17.199288+00:00</updated>
+    <updated>2015-04-20T14:45:00.846939+00:00</updated>
     <content>THE JUICE BAR at 5560 W LOVERS LN scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/783420603474268756" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1560172377094764457" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/893829504981478864</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1497098565447406628</id>
     <title>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 86</title>
-    <updated>2015-04-19T21:02:17.199349+00:00</updated>
+    <updated>2015-04-20T14:45:00.847006+00:00</updated>
     <content>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/893829504981478864" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1497098565447406628" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5699845449136523379</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/921805165229737020</id>
     <title>POPEYES at 18311 MARSH LN scored 82</title>
-    <updated>2015-04-19T21:02:17.199409+00:00</updated>
+    <updated>2015-04-20T14:45:00.847082+00:00</updated>
     <content>POPEYES at 18311 MARSH LN scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5699845449136523379" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/921805165229737020" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8756119208024101608</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1805430166893948610</id>
     <title>RACETRAC PETROLEUM #609 at 4510 TRINITY MILLS RD scored 81</title>
-    <updated>2015-04-19T21:02:17.199469+00:00</updated>
+    <updated>2015-04-20T14:45:00.847148+00:00</updated>
     <content>RACETRAC PETROLEUM #609 at 4510 TRINITY MILLS RD scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8756119208024101608" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1805430166893948610" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6346292445800611886</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6701171307206238865</id>
     <title>LAS HUASTECAS at 4003 URBAN AVE scored 81</title>
-    <updated>2015-04-19T21:02:17.199530+00:00</updated>
+    <updated>2015-04-20T14:45:00.847215+00:00</updated>
     <content>LAS HUASTECAS at 4003 URBAN AVE scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6346292445800611886" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6701171307206238865" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2769378554778793501</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1799026928081590164</id>
     <title>CHEF CHU FINE CHINESE FOOD at 3355 TRINITY MILLS RD scored 80</title>
-    <updated>2015-04-19T21:02:17.199590+00:00</updated>
+    <updated>2015-04-20T14:45:00.847286+00:00</updated>
     <content>CHEF CHU FINE CHINESE FOOD at 3355 TRINITY MILLS RD scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2769378554778793501" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1799026928081590164" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8726519371725102511</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8156115060488186978</id>
     <title>ANGELA'S CAFE &amp; DELI at 7979 INWOOD RD scored 72</title>
-    <updated>2015-04-19T21:02:17.199650+00:00</updated>
+    <updated>2015-04-20T14:45:00.847352+00:00</updated>
     <content>ANGELA'S CAFE &amp; DELI at 7979 INWOOD RD scored 72</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8726519371725102511" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8156115060488186978" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1930183752367525236</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/9142178226254897579</id>
     <title>TAQUERIA LA GUADALUPANA at 8014 HARRY HINES BLVD scored 60</title>
-    <updated>2015-04-19T21:02:17.199710+00:00</updated>
+    <updated>2015-04-20T14:45:00.847418+00:00</updated>
     <content>TAQUERIA LA GUADALUPANA at 8014 HARRY HINES BLVD scored 60</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1930183752367525236" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/9142178226254897579" rel="alternate"/>
     <published>2015-04-17T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8322326406648576891</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5896991435580507588</id>
     <title>CVS PHARMACY at 6120 E MOCKINGBIRD LN scored 89</title>
-    <updated>2015-04-19T21:02:17.199770+00:00</updated>
+    <updated>2015-04-20T14:45:00.847488+00:00</updated>
     <content>CVS PHARMACY at 6120 E MOCKINGBIRD LN scored 89</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8322326406648576891" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5896991435580507588" rel="alternate"/>
     <published>2015-04-16T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4997912149198403639</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6813759257215592789</id>
     <title>LE CORDON BLEU / SKILLS LAB INT at 11830 WEBB CHAPEL RD scored 100</title>
-    <updated>2015-04-19T21:02:17.199830+00:00</updated>
+    <updated>2015-04-20T14:45:00.847555+00:00</updated>
     <content>LE CORDON BLEU / SKILLS LAB INT at 11830 WEBB CHAPEL RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4997912149198403639" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6813759257215592789" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5042247583149583713</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1956173916023994594</id>
     <title>LE CORDON BLEU / SKILLS LAB AMERICAN at 11830 WEBB CHAPEL RD scored 100</title>
-    <updated>2015-04-19T21:02:17.199890+00:00</updated>
+    <updated>2015-04-20T14:45:00.847627+00:00</updated>
     <content>LE CORDON BLEU / SKILLS LAB AMERICAN at 11830 WEBB CHAPEL RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5042247583149583713" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1956173916023994594" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4027427186110120449</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/316519538648681325</id>
     <title>LE CORDON BLEU / SKILL LAB DEMO KITCH at 11830 WEBB CHAPEL RD scored 100</title>
-    <updated>2015-04-19T21:02:17.199950+00:00</updated>
+    <updated>2015-04-20T14:45:00.847704+00:00</updated>
     <content>LE CORDON BLEU / SKILL LAB DEMO KITCH at 11830 WEBB CHAPEL RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4027427186110120449" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/316519538648681325" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5200196884124721817</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3221790278655477902</id>
     <title>LE CORDON BLEU / PASTRY LAB 1 at 11830 WEBB CHAPEL RD scored 100</title>
-    <updated>2015-04-19T21:02:17.200011+00:00</updated>
+    <updated>2015-04-20T14:45:00.847766+00:00</updated>
     <content>LE CORDON BLEU / PASTRY LAB 1 at 11830 WEBB CHAPEL RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5200196884124721817" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3221790278655477902" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3449825710540949132</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/432968995937337579</id>
     <title>LE CORDON BLEU / GARDE MANGER LAB 1 at 11830 WEBB CHAPEL RD scored 100</title>
-    <updated>2015-04-19T21:02:17.200071+00:00</updated>
+    <updated>2015-04-20T14:45:00.847829+00:00</updated>
     <content>LE CORDON BLEU / GARDE MANGER LAB 1 at 11830 WEBB CHAPEL RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3449825710540949132" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/432968995937337579" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2435640621965175566</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6593703011197858260</id>
     <title>SWEET TOMATOES RESTAURANT at 15225 MONTFORT DR scored 97</title>
-    <updated>2015-04-19T21:02:17.200130+00:00</updated>
+    <updated>2015-04-20T14:45:00.847889+00:00</updated>
     <content>SWEET TOMATOES RESTAURANT at 15225 MONTFORT DR scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2435640621965175566" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6593703011197858260" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6800338022776063463</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6772057586219557762</id>
     <title>SHERRY FOOD MART at 4540 LAWNVEIW AVE scored 97</title>
-    <updated>2015-04-19T21:02:17.200189+00:00</updated>
+    <updated>2015-04-20T14:45:00.847950+00:00</updated>
     <content>SHERRY FOOD MART at 4540 LAWNVEIW AVE scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6800338022776063463" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6772057586219557762" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3865565634956977728</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4150382578510950519</id>
     <title>LE CORDON BLEU TX/GARDE MANGER LAB2 at 11830 WEBB CHAPEL RD scored 97</title>
-    <updated>2015-04-19T21:02:17.200249+00:00</updated>
+    <updated>2015-04-20T14:45:00.848013+00:00</updated>
     <content>LE CORDON BLEU TX/GARDE MANGER LAB2 at 11830 WEBB CHAPEL RD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3865565634956977728" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4150382578510950519" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7626404176335397898</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1381394503636528889</id>
     <title>FRANKLIN STADIUM at 10000 HILLCREST RD scored 97</title>
-    <updated>2015-04-19T21:02:17.200309+00:00</updated>
+    <updated>2015-04-20T14:45:00.848074+00:00</updated>
     <content>FRANKLIN STADIUM at 10000 HILLCREST RD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7626404176335397898" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1381394503636528889" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7842290622292337907</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4038357399349013202</id>
     <title>9TH GRADE CAFE DUN/ISD at 7101 W WHEATLAND RD scored 97</title>
-    <updated>2015-04-19T21:02:17.200369+00:00</updated>
+    <updated>2015-04-20T14:45:00.848134+00:00</updated>
     <content>9TH GRADE CAFE DUN/ISD at 7101 W WHEATLAND RD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7842290622292337907" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4038357399349013202" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6583667203303193078</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8881628018077495172</id>
     <title>SUNDRY SHOP at 1910 PACIFIC AVE scored 96</title>
-    <updated>2015-04-19T21:02:17.200430+00:00</updated>
+    <updated>2015-04-20T14:45:00.848198+00:00</updated>
     <content>SUNDRY SHOP at 1910 PACIFIC AVE scored 96</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6583667203303193078" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8881628018077495172" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5422730921212764607</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/9123760390140566452</id>
     <title>LE CORDON BLEU SKILLS II LAB at 11830 WEBB CHAPEL RD scored 96</title>
-    <updated>2015-04-19T21:02:17.200490+00:00</updated>
+    <updated>2015-04-20T14:45:00.848258+00:00</updated>
     <content>LE CORDON BLEU SKILLS II LAB at 11830 WEBB CHAPEL RD scored 96</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5422730921212764607" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/9123760390140566452" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3515455093756604305</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5928689917223918584</id>
     <title>WHATABURGER at 5500 LEMMON AVE scored 95</title>
-    <updated>2015-04-19T21:02:17.200551+00:00</updated>
+    <updated>2015-04-20T14:45:00.848319+00:00</updated>
     <content>WHATABURGER at 5500 LEMMON AVE scored 95</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3515455093756604305" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5928689917223918584" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/12283326284216652</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2145714632364177578</id>
     <title>NEW RUSH HOUR FOOD MART GROCERY at 8912 LAKE JUNE RD scored 94</title>
-    <updated>2015-04-19T21:02:17.200611+00:00</updated>
+    <updated>2015-04-20T14:45:00.848384+00:00</updated>
     <content>NEW RUSH HOUR FOOD MART GROCERY at 8912 LAKE JUNE RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/12283326284216652" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2145714632364177578" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7908536156361086247</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5763563411124450671</id>
     <title>LE CORDON BLEU/PASTRY BAKING #3 at 11830 WEBB CHAPEL RD scored 94</title>
-    <updated>2015-04-19T21:02:17.200670+00:00</updated>
+    <updated>2015-04-20T14:45:00.848445+00:00</updated>
     <content>LE CORDON BLEU/PASTRY BAKING #3 at 11830 WEBB CHAPEL RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7908536156361086247" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5763563411124450671" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3483895137091751570</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5266255311641592950</id>
     <title>HYATT PLACE DALLAS NORTH at 5229 SPRING VALLEY RD scored 94</title>
-    <updated>2015-04-19T21:02:17.200730+00:00</updated>
+    <updated>2015-04-20T14:45:00.848505+00:00</updated>
     <content>HYATT PLACE DALLAS NORTH at 5229 SPRING VALLEY RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3483895137091751570" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5266255311641592950" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2352366133740679842</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4607419212322484412</id>
     <title>BUY &amp; RIDE FOOD STORE at 8505 LAKE JUNE RD scored 94</title>
-    <updated>2015-04-19T21:02:17.200789+00:00</updated>
+    <updated>2015-04-20T14:45:00.848569+00:00</updated>
     <content>BUY &amp; RIDE FOOD STORE at 8505 LAKE JUNE RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2352366133740679842" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4607419212322484412" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2799224680461194102</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/377043455829450045</id>
     <title>ALBERTSON'S #4105 DELI at 4625 FRANKFORD RD scored 94</title>
-    <updated>2015-04-19T21:02:17.200849+00:00</updated>
+    <updated>2015-04-20T14:45:00.848629+00:00</updated>
     <content>ALBERTSON'S #4105 DELI at 4625 FRANKFORD RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2799224680461194102" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/377043455829450045" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8184204549942592031</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3932612666266627268</id>
     <title>14385 at 7325 GASTON AVE scored 94</title>
-    <updated>2015-04-19T21:02:17.200909+00:00</updated>
+    <updated>2015-04-20T14:45:00.848690+00:00</updated>
     <content>14385 at 7325 GASTON AVE scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8184204549942592031" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3932612666266627268" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1583618359527447869</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7112840520677735814</id>
     <title>LE CORDON BLEU / PASTRY LAB2 at 11830 WEBB CHAPEL RD scored 93</title>
-    <updated>2015-04-19T21:02:17.200968+00:00</updated>
+    <updated>2015-04-20T14:45:00.848753+00:00</updated>
     <content>LE CORDON BLEU / PASTRY LAB2 at 11830 WEBB CHAPEL RD scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1583618359527447869" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7112840520677735814" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7717690047891309356</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8429705488533438207</id>
     <title>LAKEHILL PREP SCHOOL CONCESSION at 7401 FERGUSON RD scored 93</title>
-    <updated>2015-04-19T21:02:17.201028+00:00</updated>
+    <updated>2015-04-20T14:45:00.848814+00:00</updated>
     <content>LAKEHILL PREP SCHOOL CONCESSION at 7401 FERGUSON RD scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7717690047891309356" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8429705488533438207" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8161810564482384442</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2535904130487854775</id>
     <title>FT 33 at 1617 HI LINE DR scored 93</title>
-    <updated>2015-04-19T21:02:17.201088+00:00</updated>
+    <updated>2015-04-20T14:45:00.848877+00:00</updated>
     <content>FT 33 at 1617 HI LINE DR scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8161810564482384442" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2535904130487854775" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6043387457832358675</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4722516890062167159</id>
     <title>FOREST LANE ACADEMY at 9663 FOREST LN scored 93</title>
-    <updated>2015-04-19T21:02:17.201148+00:00</updated>
+    <updated>2015-04-20T14:45:00.848939+00:00</updated>
     <content>FOREST LANE ACADEMY at 9663 FOREST LN scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6043387457832358675" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4722516890062167159" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3250207021448530308</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8101514515507554838</id>
     <title>NORTHWOOD CLUB MAIN BAR at 6524 ALPHA RD scored 91</title>
-    <updated>2015-04-19T21:02:17.201208+00:00</updated>
+    <updated>2015-04-20T14:45:00.848999+00:00</updated>
     <content>NORTHWOOD CLUB MAIN BAR at 6524 ALPHA RD scored 91</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3250207021448530308" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8101514515507554838" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4211276787644286165</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2477663171048219026</id>
     <title>THE FOUNDERY at 2303 PITTMAN ST scored 90</title>
-    <updated>2015-04-19T21:02:17.201268+00:00</updated>
+    <updated>2015-04-20T14:45:00.849063+00:00</updated>
     <content>THE FOUNDERY at 2303 PITTMAN ST scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4211276787644286165" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2477663171048219026" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1104444266524219597</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8320136166171395755</id>
     <title>STUPID GOOD COFFEE at 1910 PACIFIC AVE scored 90</title>
-    <updated>2015-04-19T21:02:17.201327+00:00</updated>
+    <updated>2015-04-20T14:45:00.849123+00:00</updated>
     <content>STUPID GOOD COFFEE at 1910 PACIFIC AVE scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1104444266524219597" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8320136166171395755" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8973765994745263330</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3004885896979629395</id>
     <title>PHILLIPS MART at 951 S BELTLINE RD scored 90</title>
-    <updated>2015-04-19T21:02:17.201387+00:00</updated>
+    <updated>2015-04-20T14:45:00.849191+00:00</updated>
     <content>PHILLIPS MART at 951 S BELTLINE RD scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8973765994745263330" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3004885896979629395" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/9060499491418000567</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7797435120056460222</id>
     <title>NORTHWOOD 19TH HOLE KITCHEN/BAR at 6524 ALPHA RD scored 90</title>
-    <updated>2015-04-19T21:02:17.201446+00:00</updated>
+    <updated>2015-04-20T14:45:00.849251+00:00</updated>
     <content>NORTHWOOD 19TH HOLE KITCHEN/BAR at 6524 ALPHA RD scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/9060499491418000567" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7797435120056460222" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3493251611255167746</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/546872020477842451</id>
     <title>AUDELIA CREEK ELEMENTARY at 12600 AUDELIA RD scored 90</title>
-    <updated>2015-04-19T21:02:17.201506+00:00</updated>
+    <updated>2015-04-20T14:45:00.849309+00:00</updated>
     <content>AUDELIA CREEK ELEMENTARY at 12600 AUDELIA RD scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3493251611255167746" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/546872020477842451" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8431414269943784249</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6729267966588667449</id>
     <title>AIKIN ELEMENTARY at 12300 PLEASANT VALLEY DR scored 90</title>
-    <updated>2015-04-19T21:02:17.201565+00:00</updated>
+    <updated>2015-04-20T14:45:00.849366+00:00</updated>
     <content>AIKIN ELEMENTARY at 12300 PLEASANT VALLEY DR scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8431414269943784249" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6729267966588667449" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7006508169732186642</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4202488828748507546</id>
     <title>SOCIETY BAKERY at 3610 GREENVILLE AVE scored 89</title>
-    <updated>2015-04-19T21:02:17.201624+00:00</updated>
+    <updated>2015-04-20T14:45:00.849426+00:00</updated>
     <content>SOCIETY BAKERY at 3610 GREENVILLE AVE scored 89</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7006508169732186642" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4202488828748507546" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3775312423127354310</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7522058637068680404</id>
     <title>MINYARD FOOD STORES/PRODUCE at 8040 FERGUSON RD scored 89</title>
-    <updated>2015-04-19T21:02:17.201683+00:00</updated>
+    <updated>2015-04-20T14:45:00.849483+00:00</updated>
     <content>MINYARD FOOD STORES/PRODUCE at 8040 FERGUSON RD scored 89</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3775312423127354310" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7522058637068680404" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1002104009689785062</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6089007627315879209</id>
     <title>FAMILY DOLLAR #6837 at 4421 W KIEST BLVD scored 89</title>
-    <updated>2015-04-19T21:02:17.201742+00:00</updated>
+    <updated>2015-04-20T14:45:00.849540+00:00</updated>
     <content>FAMILY DOLLAR #6837 at 4421 W KIEST BLVD scored 89</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1002104009689785062" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6089007627315879209" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1387926991248303594</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/226465363148265540</id>
     <title>SUPER 8 MOTEL at 8901 E RL THORNTON FRWY scored 88</title>
-    <updated>2015-04-19T21:02:17.201803+00:00</updated>
+    <updated>2015-04-20T14:45:00.849601+00:00</updated>
     <content>SUPER 8 MOTEL at 8901 E RL THORNTON FRWY scored 88</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1387926991248303594" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/226465363148265540" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7712956267824450700</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7040208829498269089</id>
     <title>GRANDY'S at 3738 MARVIN D LOVE FRWY scored 88</title>
-    <updated>2015-04-19T21:02:17.201863+00:00</updated>
+    <updated>2015-04-20T14:45:00.849659+00:00</updated>
     <content>GRANDY'S at 3738 MARVIN D LOVE FRWY scored 88</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7712956267824450700" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7040208829498269089" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3793640909616040095</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/261654367768073447</id>
     <title>POTATO FLATS at 3011 GULDEN LN scored 87</title>
-    <updated>2015-04-19T21:02:17.201923+00:00</updated>
+    <updated>2015-04-20T14:45:00.849716+00:00</updated>
     <content>POTATO FLATS at 3011 GULDEN LN scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3793640909616040095" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/261654367768073447" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5480954050880803626</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6372315281677062626</id>
     <title>NORTHWOOD MAIN KITCHEN/BAKERY/MEAT at 6524 ALPHA RD scored 87</title>
-    <updated>2015-04-19T21:02:17.201983+00:00</updated>
+    <updated>2015-04-20T14:45:00.849777+00:00</updated>
     <content>NORTHWOOD MAIN KITCHEN/BAKERY/MEAT at 6524 ALPHA RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5480954050880803626" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6372315281677062626" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7233331908149540469</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3631707158715015966</id>
     <title>MINYARD FOOD STORES/MEAT DEPT. at 8040 FERGUSON RD scored 87</title>
-    <updated>2015-04-19T21:02:17.202043+00:00</updated>
+    <updated>2015-04-20T14:45:00.849834+00:00</updated>
     <content>MINYARD FOOD STORES/MEAT DEPT. at 8040 FERGUSON RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7233331908149540469" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3631707158715015966" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3166836919269933875</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/447703773039486614</id>
     <title>LE CORDON BLEU TX/RESTAURANT KITCH at 11830 WEBB CHAPEL RD scored 87</title>
-    <updated>2015-04-19T21:02:17.202103+00:00</updated>
+    <updated>2015-04-20T14:45:00.849893+00:00</updated>
     <content>LE CORDON BLEU TX/RESTAURANT KITCH at 11830 WEBB CHAPEL RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3166836919269933875" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/447703773039486614" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7290818920883587786</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3372797450978616394</id>
     <title>ALBERTSON'S #4105 MEAT at 4625 FRANKFORD RD scored 87</title>
-    <updated>2015-04-19T21:02:17.202162+00:00</updated>
+    <updated>2015-04-20T14:45:00.849952+00:00</updated>
     <content>ALBERTSON'S #4105 MEAT at 4625 FRANKFORD RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7290818920883587786" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3372797450978616394" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2100141895250938833</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2313103953814073653</id>
     <title>ALBERTSON'S #4105 BAKERY at 4625 FRANKFORD RD scored 87</title>
-    <updated>2015-04-19T21:02:17.202221+00:00</updated>
+    <updated>2015-04-20T14:45:00.850008+00:00</updated>
     <content>ALBERTSON'S #4105 BAKERY at 4625 FRANKFORD RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2100141895250938833" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2313103953814073653" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1126775453833864583</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/228492416431843116</id>
     <title>MINYARD'S #03 BAKERY at 8040 FERGUSON RD scored 86</title>
-    <updated>2015-04-19T21:02:17.202280+00:00</updated>
+    <updated>2015-04-20T14:45:00.850068+00:00</updated>
     <content>MINYARD'S #03 BAKERY at 8040 FERGUSON RD scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1126775453833864583" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/228492416431843116" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7657930064055584630</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7202455152522090571</id>
     <title>MI COCINA at 18352 DALLAS PKWY scored 86</title>
-    <updated>2015-04-19T21:02:17.202339+00:00</updated>
+    <updated>2015-04-20T14:45:00.850124+00:00</updated>
     <content>MI COCINA at 18352 DALLAS PKWY scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7657930064055584630" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7202455152522090571" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8506615342557821664</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4616150569560335276</id>
     <title>ALBERTSON'S #4105 GROCERY at 4625 FRANKFORD RD scored 86</title>
-    <updated>2015-04-19T21:02:17.202398+00:00</updated>
+    <updated>2015-04-20T14:45:00.850182+00:00</updated>
     <content>ALBERTSON'S #4105 GROCERY at 4625 FRANKFORD RD scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8506615342557821664" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4616150569560335276" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/453109344110431075</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2128200062319355859</id>
     <title>POLLO FIESTA at 903 S HAMPTON RD scored 85</title>
-    <updated>2015-04-19T21:02:17.202458+00:00</updated>
+    <updated>2015-04-20T14:45:00.850252+00:00</updated>
     <content>POLLO FIESTA at 903 S HAMPTON RD scored 85</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/453109344110431075" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2128200062319355859" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/966067701566557026</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5121262934362713059</id>
     <title>CHICKEN SCRATCH at 2303 PITTMAN ST scored 85</title>
-    <updated>2015-04-19T21:02:17.202518+00:00</updated>
+    <updated>2015-04-20T14:45:00.850321+00:00</updated>
     <content>CHICKEN SCRATCH at 2303 PITTMAN ST scored 85</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/966067701566557026" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5121262934362713059" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/75195041662508644</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8868763648487171996</id>
     <title>TAQUERIA LOS ALISOS at 2971 WALNUT HILL LN scored 84</title>
-    <updated>2015-04-19T21:02:17.202577+00:00</updated>
+    <updated>2015-04-20T14:45:00.850379+00:00</updated>
     <content>TAQUERIA LOS ALISOS at 2971 WALNUT HILL LN scored 84</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/75195041662508644" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8868763648487171996" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3784857757653892278</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7460277463631267314</id>
     <title>GARLAND RD SHELL at 10433 GARLAND RD scored 84</title>
-    <updated>2015-04-19T21:02:17.202636+00:00</updated>
+    <updated>2015-04-20T14:45:00.850439+00:00</updated>
     <content>GARLAND RD SHELL at 10433 GARLAND RD scored 84</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3784857757653892278" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7460277463631267314" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4750920429261223621</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/9074229569590150213</id>
     <title>MINYARD FOOD STORES/DELI at 8040 FERGUSON RD scored 83</title>
-    <updated>2015-04-19T21:02:17.202695+00:00</updated>
+    <updated>2015-04-20T14:45:00.850496+00:00</updated>
     <content>MINYARD FOOD STORES/DELI at 8040 FERGUSON RD scored 83</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4750920429261223621" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/9074229569590150213" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6856869666865442620</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7924987412949950573</id>
     <title>LION FOOD MART at 7272 GASTON AVE scored 83</title>
-    <updated>2015-04-19T21:02:17.202755+00:00</updated>
+    <updated>2015-04-20T14:45:00.850553+00:00</updated>
     <content>LION FOOD MART at 7272 GASTON AVE scored 83</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6856869666865442620" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7924987412949950573" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7396487530427214592</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/199117919974102996</id>
     <title>A TO Z FOOD MART at 2120 N ST AUGUSTINE RD scored 83</title>
-    <updated>2015-04-19T21:02:17.202814+00:00</updated>
+    <updated>2015-04-20T14:45:00.850612+00:00</updated>
     <content>A TO Z FOOD MART at 2120 N ST AUGUSTINE RD scored 83</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7396487530427214592" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/199117919974102996" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1260728225465187284</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3705344778323156285</id>
     <title>PRIMO'S at 1400 HI LINE DR scored 82</title>
-    <updated>2015-04-19T21:02:17.202873+00:00</updated>
+    <updated>2015-04-20T14:45:00.850669+00:00</updated>
     <content>PRIMO'S at 1400 HI LINE DR scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1260728225465187284" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3705344778323156285" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6021099905114355277</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6103007210847238297</id>
     <title>MINYARD'S #03 GROCERY at 8040 FERGUSON RD scored 82</title>
-    <updated>2015-04-19T21:02:17.202933+00:00</updated>
+    <updated>2015-04-20T14:45:00.850726+00:00</updated>
     <content>MINYARD'S #03 GROCERY at 8040 FERGUSON RD scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6021099905114355277" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6103007210847238297" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1734167557270344681</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3424274560784040822</id>
     <title>CIBERJUGOS Y FRUTAS at 9625 WEBB CHAPEL RD scored 82</title>
-    <updated>2015-04-19T21:02:17.202993+00:00</updated>
+    <updated>2015-04-20T14:45:00.850786+00:00</updated>
     <content>CIBERJUGOS Y FRUTAS at 9625 WEBB CHAPEL RD scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1734167557270344681" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3424274560784040822" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1932957100203121514</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2092827020378070838</id>
     <title>GREEN GROCER at 3614 GREENVILLE AVE scored 81</title>
-    <updated>2015-04-19T21:02:17.203052+00:00</updated>
+    <updated>2015-04-20T14:45:00.850843+00:00</updated>
     <content>GREEN GROCER at 3614 GREENVILLE AVE scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1932957100203121514" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2092827020378070838" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/779624199131008816</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1667974538880276594</id>
     <title>CITY PARK CAFE at 1920 MAIN ST scored 81</title>
-    <updated>2015-04-19T21:02:17.203111+00:00</updated>
+    <updated>2015-04-20T14:45:00.850900+00:00</updated>
     <content>CITY PARK CAFE at 1920 MAIN ST scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/779624199131008816" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1667974538880276594" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6462849096580710713</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4524793108459728006</id>
     <title>SUBWAY at 7324 GASTON AVE scored 80</title>
-    <updated>2015-04-19T21:02:17.203170+00:00</updated>
+    <updated>2015-04-20T14:45:00.850960+00:00</updated>
     <content>SUBWAY at 7324 GASTON AVE scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6462849096580710713" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4524793108459728006" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7530597202928704745</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4556450596903127094</id>
     <title>PEAVY BURGER MART at 1141 PEAVY RD scored 80</title>
-    <updated>2015-04-19T21:02:17.203230+00:00</updated>
+    <updated>2015-04-20T14:45:00.851017+00:00</updated>
     <content>PEAVY BURGER MART at 1141 PEAVY RD scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7530597202928704745" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4556450596903127094" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5279222579942588894</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7976448926896224362</id>
     <title>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 41</title>
-    <updated>2015-04-19T21:02:17.203289+00:00</updated>
+    <updated>2015-04-20T14:45:00.851076+00:00</updated>
     <content>WRIGHT'S FAMILY FOOD at 1050 S BELTLINE RD scored 41</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5279222579942588894" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7976448926896224362" rel="alternate"/>
     <published>2015-04-15T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8679919839524218419</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3156648907485218838</id>
     <title>WESTIN PRIVATE EVENT ROOM at 13340 DALLAS PKWY scored 100</title>
-    <updated>2015-04-19T21:02:17.203350+00:00</updated>
+    <updated>2015-04-20T14:45:00.851134+00:00</updated>
     <content>WESTIN PRIVATE EVENT ROOM at 13340 DALLAS PKWY scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8679919839524218419" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3156648907485218838" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4457777679728872781</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/955199396070343023</id>
     <title>WESTIN GALLERIA DALLAS BANQUET KITCHEN at 13340 DALLAS PKWY scored 100</title>
-    <updated>2015-04-19T21:02:17.203409+00:00</updated>
+    <updated>2015-04-20T14:45:00.851202+00:00</updated>
     <content>WESTIN GALLERIA DALLAS BANQUET KITCHEN at 13340 DALLAS PKWY scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4457777679728872781" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/955199396070343023" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8383040978971454398</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2683007198063247494</id>
     <title>WALGREENS #05826 at 7930 BELTLINE RD scored 100</title>
-    <updated>2015-04-19T21:02:17.203468+00:00</updated>
+    <updated>2015-04-20T14:45:00.851281+00:00</updated>
     <content>WALGREENS #05826 at 7930 BELTLINE RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8383040978971454398" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2683007198063247494" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4386478096107428613</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/257060576257158033</id>
     <title>PACIFIC CENTER SANDWICH SHOP at 14180 DALLAS PKWY scored 100</title>
-    <updated>2015-04-19T21:02:17.203528+00:00</updated>
+    <updated>2015-04-20T14:45:00.851349+00:00</updated>
     <content>PACIFIC CENTER SANDWICH SHOP at 14180 DALLAS PKWY scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4386478096107428613" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/257060576257158033" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7911709421603774587</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/87581420329101430</id>
     <title>KNIGHT ELEMENTARY at 2615 ANSON AVE scored 100</title>
-    <updated>2015-04-19T21:02:17.203587+00:00</updated>
+    <updated>2015-04-20T14:45:00.851427+00:00</updated>
     <content>KNIGHT ELEMENTARY at 2615 ANSON AVE scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7911709421603774587" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/87581420329101430" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6502461795050466461</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8437022307654350004</id>
     <title>BENJAMIN FRANKLIN SCHOOL at 6920 MEADOW RD scored 100</title>
-    <updated>2015-04-19T21:02:17.203646+00:00</updated>
+    <updated>2015-04-20T14:45:00.851605+00:00</updated>
     <content>BENJAMIN FRANKLIN SCHOOL at 6920 MEADOW RD scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6502461795050466461" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8437022307654350004" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3197770228733624195</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4462620141780339946</id>
     <title>WAL-MART #3015 BAKERY at 2827 S BUCKNER BLVD scored 97</title>
-    <updated>2015-04-19T21:02:17.203705+00:00</updated>
+    <updated>2015-04-20T14:45:00.851674+00:00</updated>
     <content>WAL-MART #3015 BAKERY at 2827 S BUCKNER BLVD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3197770228733624195" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4462620141780339946" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7985802856721604881</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1942323423850620455</id>
     <title>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 97</title>
-    <updated>2015-04-19T21:02:17.203765+00:00</updated>
+    <updated>2015-04-20T14:45:00.851738+00:00</updated>
     <content>SOUTH BUCKNER FOOD MART at 521 S BUCKNER BLVD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7985802856721604881" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1942323423850620455" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7395528933230427384</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6456742039899121231</id>
     <title>OUR LADY OF PERPETUAL at 7625 CORTLAND AVE scored 97</title>
-    <updated>2015-04-19T21:02:17.203825+00:00</updated>
+    <updated>2015-04-20T14:45:00.851799+00:00</updated>
     <content>OUR LADY OF PERPETUAL at 7625 CORTLAND AVE scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7395528933230427384" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6456742039899121231" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1405181548853360074</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3508572717248010650</id>
     <title>GOLDEN RULE CHARTER SCHOL at 2602 W ILLINOIS AVE scored 97</title>
-    <updated>2015-04-19T21:02:17.203885+00:00</updated>
+    <updated>2015-04-20T14:45:00.851860+00:00</updated>
     <content>GOLDEN RULE CHARTER SCHOL at 2602 W ILLINOIS AVE scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1405181548853360074" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3508572717248010650" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7813644520017673301</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6230697138474915547</id>
     <title>SUDIE WILLIAMS ELEMENTARY at 4518 POMONA RD scored 96</title>
-    <updated>2015-04-19T21:02:17.203944+00:00</updated>
+    <updated>2015-04-20T14:45:00.851921+00:00</updated>
     <content>SUDIE WILLIAMS ELEMENTARY at 4518 POMONA RD scored 96</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7813644520017673301" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6230697138474915547" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3900191173719966545</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/539030432289257189</id>
     <title>AMERICAN GIRL BOUTIQUES AND BISTRO at 13464 DALLAS PKWY scored 95</title>
-    <updated>2015-04-19T21:02:17.204003+00:00</updated>
+    <updated>2015-04-20T14:45:00.851981+00:00</updated>
     <content>AMERICAN GIRL BOUTIQUES AND BISTRO at 13464 DALLAS PKWY scored 95</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3900191173719966545" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/539030432289257189" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7182369076481607953</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/788322731734263849</id>
     <title>WESTIN GALLERIA DALLAS EMPLOYEE KITCHEN at 13340 DALLAS PKWY scored 94</title>
-    <updated>2015-04-19T21:02:17.204063+00:00</updated>
+    <updated>2015-04-20T14:45:00.852042+00:00</updated>
     <content>WESTIN GALLERIA DALLAS EMPLOYEE KITCHEN at 13340 DALLAS PKWY scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7182369076481607953" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/788322731734263849" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/926371442535666721</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7473103516419491059</id>
     <title>GILLEY'S at 1135 S LAMAR ST scored 94</title>
-    <updated>2015-04-19T21:02:17.204123+00:00</updated>
+    <updated>2015-04-20T14:45:00.852102+00:00</updated>
     <content>GILLEY'S at 1135 S LAMAR ST scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/926371442535666721" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7473103516419491059" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/8893384027811701386</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4448476745092950836</id>
     <title>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</title>
-    <updated>2015-04-19T21:02:17.204182+00:00</updated>
+    <updated>2015-04-20T14:45:00.852162+00:00</updated>
     <content>CASA CAVAZOS at 5409 N JIM MILLER RD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/8893384027811701386" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4448476745092950836" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4911064372888008063</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4180753871977092297</id>
     <title>BISTRO RESTAURANT BAR 2ND FL at 13340 DALLAS PKWY scored 94</title>
-    <updated>2015-04-19T21:02:17.204241+00:00</updated>
+    <updated>2015-04-20T14:45:00.852222+00:00</updated>
     <content>BISTRO RESTAURANT BAR 2ND FL at 13340 DALLAS PKWY scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4911064372888008063" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4180753871977092297" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3697600708325873832</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3693766137294419868</id>
     <title>BIG C FOOD MART at 2240 IRVING BLVD scored 94</title>
-    <updated>2015-04-19T21:02:17.204301+00:00</updated>
+    <updated>2015-04-20T14:45:00.852282+00:00</updated>
     <content>BIG C FOOD MART at 2240 IRVING BLVD scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3697600708325873832" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3693766137294419868" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/791112678638473317</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2662957816265627684</id>
     <title>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</title>
-    <updated>2015-04-19T21:02:17.204361+00:00</updated>
+    <updated>2015-04-20T14:45:00.852342+00:00</updated>
     <content>ALTERNATIVE CENTER @ VILLAGE FAIR at 4949 VILLAGE FAIR DR scored 94</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/791112678638473317" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2662957816265627684" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4430755327565919217</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5727567115858512831</id>
     <title>TCBY at 6402 E MOCKINGBIRD LN scored 93</title>
-    <updated>2015-04-19T21:02:17.204420+00:00</updated>
+    <updated>2015-04-20T14:45:00.852402+00:00</updated>
     <content>TCBY at 6402 E MOCKINGBIRD LN scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4430755327565919217" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5727567115858512831" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6402632403029781676</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/590038436649214937</id>
     <title>K B POLK ELEMENTARY SCH at 6911 VICTORIA AVE scored 93</title>
-    <updated>2015-04-19T21:02:17.204479+00:00</updated>
+    <updated>2015-04-20T14:45:00.852462+00:00</updated>
     <content>K B POLK ELEMENTARY SCH at 6911 VICTORIA AVE scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6402632403029781676" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/590038436649214937" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5249680281383288734</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4380383487811927621</id>
     <title>JERSEY MIKES SUBS at 14060 DALLAS PKWY scored 93</title>
-    <updated>2015-04-19T21:02:17.204552+00:00</updated>
+    <updated>2015-04-20T14:45:00.852521+00:00</updated>
     <content>JERSEY MIKES SUBS at 14060 DALLAS PKWY scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5249680281383288734" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4380383487811927621" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/2481339847788816112</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4207249280872814099</id>
     <title>DANNY KING DONUTS at 2572 WALNUT HILL LN scored 93</title>
-    <updated>2015-04-19T21:02:17.204613+00:00</updated>
+    <updated>2015-04-20T14:45:00.852581+00:00</updated>
     <content>DANNY KING DONUTS at 2572 WALNUT HILL LN scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/2481339847788816112" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4207249280872814099" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4317897456638410575</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7195782562573652375</id>
     <title>WESTIN GALLERIA DALLAS MAIN KITCHEN at 13340 DALLAS PKWY scored 91</title>
-    <updated>2015-04-19T21:02:17.204673+00:00</updated>
+    <updated>2015-04-20T14:45:00.852642+00:00</updated>
     <content>WESTIN GALLERIA DALLAS MAIN KITCHEN at 13340 DALLAS PKWY scored 91</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4317897456638410575" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7195782562573652375" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4116992141759949662</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8965752860334854060</id>
     <title>WAL-MART #3015 - DELI at 2827 S BUCKNER BLVD scored 91</title>
-    <updated>2015-04-19T21:02:17.204731+00:00</updated>
+    <updated>2015-04-20T14:45:00.852701+00:00</updated>
     <content>WAL-MART #3015 - DELI at 2827 S BUCKNER BLVD scored 91</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4116992141759949662" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8965752860334854060" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3864799620895688530</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/2827002796697401892</id>
     <title>CULTIVAR COFFEE at 1146 PEAVY RD scored 91</title>
-    <updated>2015-04-19T21:02:17.204791+00:00</updated>
+    <updated>2015-04-20T14:45:00.852761+00:00</updated>
     <content>CULTIVAR COFFEE at 1146 PEAVY RD scored 91</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3864799620895688530" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/2827002796697401892" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6543262634028462242</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6759974946769745521</id>
     <title>THE LOFT at 1135 S LAMAR ST scored 90</title>
-    <updated>2015-04-19T21:02:17.204850+00:00</updated>
+    <updated>2015-04-20T14:45:00.852821+00:00</updated>
     <content>THE LOFT at 1135 S LAMAR ST scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6543262634028462242" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6759974946769745521" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
   <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7898903106956341057</id>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8256183369925819465</id>
     <title>STOCK &amp; BARREL RESTAURANT at 316 W DAVIS ST scored 90</title>
-    <updated>2015-04-19T21:02:17.204908+00:00</updated>
+    <updated>2015-04-20T14:45:00.852881+00:00</updated>
     <content>STOCK &amp; BARREL RESTAURANT at 316 W DAVIS ST scored 90</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7898903106956341057" rel="alternate"/>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8256183369925819465" rel="alternate"/>
     <published>2015-04-14T00:00:00-05:00</published>
   </entry>
 </feed>
