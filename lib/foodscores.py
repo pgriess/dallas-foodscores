@@ -17,6 +17,7 @@ Misc. utilities.
 '''
 
 import datetime
+import hashlib
 
 # XXX: Probably not ideal for this to define the CSV serialization field names,
 #      but whatever.
@@ -99,10 +100,17 @@ class Inspection(object):
         return self.zipcode < other.zipcode
 
     def __hash__(self):
-        return hash(self.name) ^ \
-                hash(self.address) ^ \
-                hash(self.suite) ^ \
-                hash(self.zipcode) ^ \
-                hash(self.date) ^ \
-                hash(self.score) ^ \
-                hash(self.inspection_type)
+        hd = hashlib.sha1(
+                bytes(
+                    '{} {} {} {} {} {} {}'.format(
+                        self.name, self.address, self.suite, self.zipcode,
+                        self.date, self.score, self.inspection_type),
+                    encoding='utf-8')).hexdigest()
+
+        hv = 0
+        while len(hd) > 0:
+            i = int(hd[:16], 16)
+            hv ^= i
+            hd = hd[16:]
+
+        return hv
