@@ -1,0 +1,73 @@
+#!/bin/bash -ex
+#
+# Copyright 2015 Peter Griess
+#
+# Licensed under the Apache License, Version 2.0 (the "License"); you may not
+# use this file except in compliance with the License.  You may obtain a copy
+# of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+# License for the specific language governing permissions and limitations under
+# the License.
+#
+# Update the food inspection scores dataset.
+
+EXECNAME=$(basename $0)
+DIRNAME=$(dirname $0)
+WORKDIR=$(mktemp -d)
+
+log() {
+    echo >&2 "$EXECNAME: $@"
+}
+
+die() {
+    log $@
+    exit 1
+}
+
+cleanup() {
+    rm -fr $WORKDIR
+}
+
+trap cleanup EXIT
+
+[[ $# -ge 1 ]] || die "missing <gh-pages> workdir path"
+gh_pages_workdir=$1
+shift
+
+[[ -d $gh_pages_workdir/.git ]] || \
+    die "$gh_pages_workdir is not a Git repository"
+
+# Clean up the gh-pages repo
+(
+    cd $gh_pages_workdir ;
+    git reset --hard origin/gh-pages ;
+    git clean -dfx ;
+    git pull --rebase origin gh-pages ;
+)
+
+# Download scores
+$DIRNAME/download-scores -vvvvv >$WORKDIR/scores-new.csv
+$DIRNAME/union-scores -vvvvv \
+    $gh_pages_workdir/scores.csv $WORKDIR/scores-new.csv \
+    >$WORKDIR/scores-merged.csv
+
+if diff $gh_pages_workdir/scores.csv $WORKDIR/scores-merged.csv >/dev/null ; then
+    log "no change to scores; not generating feed"
+    exit 0
+fi
+
+cp -f $WORKDIR/scores-merged.csv $gh_pages_workdir/scores.csv
+cat $gh_pages_workdir/scores.csv | \
+    $DIRNAME/render-feed -vvvvv -n 100 -f atom \
+    >$gh_pages_workdir/feed.atom.xml
+
+(
+    cd $gh_pages_workdir ;
+    git commit -am "Automated update to dataset" ;
+    git push origin gh-pages ;
+)
