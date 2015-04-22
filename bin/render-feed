@@ -17,6 +17,7 @@
 # Render RSS and Atom feeds from a CSV of food inspection scores.
 
 import argparse
+import collections
 import csv
 from feedgen.feed import FeedGenerator
 import hashlib
@@ -36,15 +37,43 @@ import foodscores
 
 TZ = pytz.timezone('US/Central')
 
-def get_inspections_to_feed(stream, num_entries):
+def get_inspections_to_feed(stream, num_entries, flavor):
     '''
     Yield a list of Inspection objects that should be rendered into the feed.
     '''
 
     cr = csv.DictReader(stream)
-    inspections = sorted(
+    all_inspections = sorted(
             [foodscores.Inspection.from_dict(r) for r in cr], reverse=True)
-    return inspections[:num_entries]
+
+    if flavor == 'all':
+        inspections_to_feed = all_inspections
+    if flavor == 'failures':
+        def location_key(i):
+            return ('{name} {address_street} {address_suite} '
+                    '{address_zip}').format(**i.to_dict())
+
+        history_map = collections.defaultdict(list)
+        inspections_to_feed = set()
+        for i in all_inspections:
+            k = location_key(i)
+
+            # Scores of less than 70 require re-inspection. Scores of less than
+            # 60 require immediate closure and a passing inspection before
+            # re-opening. Report all scores of less than 70 as well as
+            # subsequent inspections. We use a set here because consecutive
+            # failed inspections would result in duplicate entries.
+            if i.score < 70:
+                if k not in history_map:
+                    inspections_to_feed |= set([i])
+                else:
+                    inspections_to_feed |= set([history_map[k][-1], i])
+
+            history_map[k] += [i]
+
+        inspections_to_feed = sorted(inspections_to_feed, reverse=True)
+
+    return inspections_to_feed[:num_entries]
 
 
 def main(argv):
@@ -63,6 +92,9 @@ specify the format to use when rendering the feed (default: %(default)s)')
     ap.add_argument(
         '-n', '--num_incidents', metavar='<num>', type=int, default=10,
         help='render <num> recent incidents in the feed (default: %(default)s)')
+    ap.add_argument(
+        'flavor', nargs='?', default='all', choices=['all', 'failures'],
+        help='select the flavor of feed to render (default: %(default)s)')
 
     args = ap.parse_args()
 
@@ -85,7 +117,8 @@ Food inspection scores from the official City of Dallas dataset; updated daily
         email='pg@std.in',
         uri='https://twitter.com/pgriess')
 
-    for i in get_inspections_to_feed(sys.stdin, args.num_incidents):
+    for i in get_inspections_to_feed(sys.stdin, args.num_incidents,
+            args.flavor):
         fe = fg.add_entry()
         fe.title('{name} at {address} scored {score}'.format(
             name=i.name, address=i.address, score=i.score))
