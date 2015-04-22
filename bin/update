@@ -50,6 +50,14 @@ shift
     git pull --rebase origin gh-pages ;
 )
 
+# Clean up the local repo
+(
+    cd $DIRNAME/.. ;
+    git reset --hard origin/master ;
+    git clean -dfx ;
+    git pull --rebase origin master ;
+)
+
 # Download scores
 $DIRNAME/download-scores -vvvvv >$WORKDIR/scores-new.csv
 $DIRNAME/union-scores -vvvvv \
