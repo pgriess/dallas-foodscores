@@ -71,8 +71,11 @@ fi
 
 cp -f $WORKDIR/scores-merged.csv $gh_pages_workdir/scores.csv
 cat $gh_pages_workdir/scores.csv | \
-    $DIRNAME/render-feed -vvvvv -n 100 -f atom \
+    $DIRNAME/render-feed -vvvvv -n 100 -f atom all \
     >$gh_pages_workdir/feed.atom.xml
+cat $gh_pages_workdir/scores.csv | \
+    $DIRNAME/render-feed -vvvvv -n 100 -f atom failures \
+    >$gh_pages_workdir/feed-failures.atom.xml
 
 (
     cd $gh_pages_workdir ;
