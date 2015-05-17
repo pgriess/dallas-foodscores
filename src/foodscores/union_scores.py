@@ -17,18 +17,11 @@
 import argparse
 import datetime
 import csv
+from foodscores.inspection import Inspection
 import logging
 import os.path
 import sys
 
-sys.path += [
-        os.path.join(
-            os.path.dirname(sys.argv[0]),
-            '..',
-            'src')
-]
-
-import foodscores
 
 def main(argv):
     ap = argparse.ArgumentParser(
@@ -54,11 +47,11 @@ inputs. Writes outout CSV to stdout.
     for cfp in args.files:
         with open(cfp) as cf:
             cr = csv.DictReader(cf)
-            inspections |= set(foodscores.Inspection.from_dict(r) for r in cr)
+            inspections |= set(Inspection.from_dict(r) for r in cr)
 
     cw = csv.DictWriter(
             sys.stdout,
-            fieldnames=foodscores.Inspection.FIELDNAMES)
+            fieldnames=Inspection.FIELDNAMES)
     cw.writeheader()
     cw.writerows(r.to_dict() for r in sorted(inspections))
 

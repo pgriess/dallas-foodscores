@@ -20,20 +20,13 @@ import argparse
 import collections
 import csv
 from feedgen.feed import FeedGenerator
+from foodscores.inspection import Inspection
 import hashlib
 import logging
 import os.path
 import pytz
 import sys
 
-sys.path += [
-        os.path.join(
-            os.path.dirname(sys.argv[0]),
-            '..',
-            'src')
-]
-
-import foodscores
 
 TZ = pytz.timezone('US/Central')
 
@@ -44,7 +37,7 @@ def get_inspections_to_feed(stream, num_entries, flavor):
 
     cr = csv.DictReader(stream)
     all_inspections = sorted(
-            [foodscores.Inspection.from_dict(r) for r in cr], reverse=True)
+            [Inspection.from_dict(r) for r in cr], reverse=True)
 
     if flavor == 'all':
         inspections_to_feed = all_inspections

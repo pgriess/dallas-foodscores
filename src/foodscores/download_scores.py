@@ -26,6 +26,7 @@ import argparse
 import contextlib
 import datetime
 import csv
+from foodscores.inspection import Inspection
 import io
 import logging
 import lxml.etree
@@ -34,15 +35,6 @@ import urllib
 import urllib2
 import re
 import sys
-
-sys.path += [
-        os.path.join(
-            os.path.dirname(sys.argv[0]),
-            '..',
-            'src')
-]
-
-import foodscores
 
 
 def node_text(n):
@@ -127,7 +119,7 @@ def inspections_by_zipcode(zipcode):
                         v = unicode(v, 'utf-8', 'replace')
                     d[k] = v
 
-                yield foodscores.Inspection(
+                yield Inspection(
                     name=d['Name'],
                     address=d['Address'],
                     suite=d['Suite#'],
@@ -178,7 +170,7 @@ def main(argv):
 
     cw = csv.DictWriter(
             sys.stdout,
-            fieldnames=foodscores.Inspection.FIELDNAMES)
+            fieldnames=Inspection.FIELDNAMES)
     cw.writeheader()
     cw.writerows(i.to_dict() for i in sorted(inspections))
 
