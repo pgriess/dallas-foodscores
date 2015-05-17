@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/bin/env python2.7
 #
 # Copyright 2015 Peter Griess
 #
@@ -23,15 +23,15 @@
 #      earliest dates are *exactly* 2 years earlier than the scrape run.
 
 import argparse
+import contextlib
 import datetime
 import csv
-import http.cookiejar
 import io
 import logging
 import lxml.etree
 import os.path
-import urllib.parse
-import urllib.request
+import urllib
+import urllib2
 import re
 import sys
 
@@ -84,30 +84,28 @@ def inspections_by_zipcode(zipcode):
 
     base_url = 'http://www2.dallascityhall.com/FoodInspection/SearchScoresAction.cfm'
 
-    od = urllib.request.OpenerDirector()
-    od.add_handler(urllib.request.ProxyHandler())
-    od.add_handler(urllib.request.HTTPCookieProcessor())
-    od.add_handler(urllib.request.HTTPHandler())
+    od = urllib2.OpenerDirector()
+    od.add_handler(urllib2.ProxyHandler())
+    od.add_handler(urllib2.HTTPCookieProcessor())
+    od.add_handler(urllib2.HTTPHandler())
 
     page_num = 1
     while True:
         logging.debug('fetching page {} for zip {}'.format(page_num, zipcode))
 
         if page_num > 1:
-            url = base_url + '?' + urllib.parse.urlencode({'PageNum_q_search': page_num})
+            url = base_url + '?' + urllib.urlencode({'PageNum_q_search': page_num})
             data = None
         else:
             url = base_url
-            data = bytes(
-                urllib.parse.urlencode({
+            data = urllib.urlencode({
                     'NAME': '',
                     'STNO': '',
                     'STNAME': '',
                     'ZIP': zipcode,
-                    'Submit': 'Search+Scores'}),
-                'utf-8')
+                    'Submit': 'Search+Scores'})
 
-        with od.open(url, data) as r:
+        with contextlib.closing(od.open(url, data)) as r:
             et = lxml.etree.parse(io.BytesIO(r.read()), lxml.etree.HTMLParser())
             t = et.xpath('//body/table')[0]
 
@@ -124,6 +122,10 @@ def inspections_by_zipcode(zipcode):
                         zip(
                             fields,
                             [clean_text(node_text(td)) for td in tr.xpath('td')]))
+                for k, v in d.iteritems():
+                    if type(v) == str:
+                        v = unicode(v, 'utf-8', 'replace')
+                    d[k] = v
 
                 yield foodscores.Inspection(
                     name=d['Name'],
@@ -153,13 +155,12 @@ def main(argv):
 
     logging.basicConfig(
             level=logging.ERROR - args.verbosity * 10,
-            style='{',
-            format='{}: {{message}}'.format(ap.prog))
+            format='{}: %(message)s'.format(ap.prog))
 
-    od = urllib.request.OpenerDirector()
-    od.add_handler(urllib.request.ProxyHandler())
-    od.add_handler(urllib.request.HTTPCookieProcessor())
-    od.add_handler(urllib.request.HTTPHandler())
+    od = urllib2.OpenerDirector()
+    od.add_handler(urllib2.ProxyHandler())
+    od.add_handler(urllib2.HTTPCookieProcessor())
+    od.add_handler(urllib2.HTTPHandler())
 
     inspections = set()
     for z in [

@@ -47,7 +47,7 @@ class Inspection(object):
         self.inspection_type = inspection_type
 
     def to_dict(self):
-        return {
+        d = {
                 'name': self.name,
                 'address_street': self.address,
                 'address_suite': self.suite,
@@ -56,17 +56,23 @@ class Inspection(object):
                 'inspection_score': self.score,
                 'inspection_type': self.inspection_type,
         }
+        for k, v in d.iteritems():
+            if type(v) == unicode:
+                v = v.encode('utf-8', 'replace')
+            d[k] = v
+
+        return d
 
     @staticmethod
     def from_dict(d):
         return Inspection(
-                name=d['name'],
-                address=d['address_street'],
-                suite=d['address_suite'],
-                zipcode=d['address_zip'],
+                name=unicode(d['name'], 'utf-8', 'replace'),
+                address=unicode(d['address_street'], 'utf-8', 'replace'),
+                suite=unicode(d['address_suite'], 'utf-8', 'replace'),
+                zipcode=unicode(d['address_zip'], 'utf-8', 'replace'),
                 date=datetime.datetime.strptime(d['inspection_date'], '%Y-%m-%d'),
                 score=int(d['inspection_score']),
-                inspection_type=d['inspection_type'])
+                inspection_type=unicode(d['inspection_type'], 'utf-8', 'replace'))
 
 
     def __eq__(self, other):
@@ -101,11 +107,11 @@ class Inspection(object):
 
     def __hash__(self):
         hd = hashlib.sha1(
-                bytes(
-                    '{} {} {} {} {} {} {}'.format(
+                    u'{} {} {} {} {} {} {}'.format(
                         self.name, self.address, self.suite, self.zipcode,
-                        self.date, self.score, self.inspection_type),
-                    encoding='utf-8')).hexdigest()
+                        self.date, self.score, self.inspection_type).
+                            encode('utf-8')
+        ).hexdigest()
 
         hv = 0
         while len(hd) > 0:

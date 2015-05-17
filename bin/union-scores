@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/bin/env python2.7
 #
 # Copyright 2015 Peter Griess
 #
@@ -52,7 +52,7 @@ inputs. Writes outout CSV to stdout.
 
     inspections = set()
     for cfp in args.files:
-        with open(cfp, encoding='utf-8') as cf:
+        with open(cfp) as cf:
             cr = csv.DictReader(cf)
             inspections |= set(foodscores.Inspection.from_dict(r) for r in cr)
 
