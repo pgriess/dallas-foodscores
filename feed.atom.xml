@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://pgriess.github.io/dallas-foodscores/</id>
   <title>Dallas Food Inspection Scores</title>
-  <updated>2015-07-07T15:04:25.313211+00:00</updated>
+  <updated>2015-07-08T15:04:52.988397+00:00</updated>
   <author>
     <name>Peter Griess</name>
     <email>pg@std.in</email>
@@ -13,9 +13,41 @@
 Food inspection scores from the official City of Dallas dataset; updated daily
 </subtitle>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4757399562671458593</id>
+    <title>STARBUCKS COFFEE #6253 at 6859 ARAPAHO RD scored 91</title>
+    <updated>2015-07-08T15:04:53.799818+00:00</updated>
+    <content>STARBUCKS COFFEE #6253 at 6859 ARAPAHO RD scored 91</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4757399562671458593" rel="alternate"/>
+    <published>2015-07-07T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5162253243093402080</id>
+    <title>VALERO CORNER STORE# 2417 at 7887 MCCALLUM BLVD scored 87</title>
+    <updated>2015-07-08T15:04:53.800014+00:00</updated>
+    <content>VALERO CORNER STORE# 2417 at 7887 MCCALLUM BLVD scored 87</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5162253243093402080" rel="alternate"/>
+    <published>2015-07-07T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7335461573066042866</id>
+    <title>HOT DONUTS at 6859 ARAPAHO RD scored 80</title>
+    <updated>2015-07-08T15:04:53.800087+00:00</updated>
+    <content>HOT DONUTS at 6859 ARAPAHO RD scored 80</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7335461573066042866" rel="alternate"/>
+    <published>2015-07-07T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/972878794246485579</id>
+    <title>KNL DINER &amp; GRILL at 4310 MALCOLM X BLVD scored 94</title>
+    <updated>2015-07-08T15:04:53.800155+00:00</updated>
+    <content>KNL DINER &amp; GRILL at 4310 MALCOLM X BLVD scored 94</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/972878794246485579" rel="alternate"/>
+    <published>2015-07-06T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1540671878303339322</id>
     <title>CVS PHARMACY at 5111 GREENVILLE AVE scored 94</title>
-    <updated>2015-07-07T15:04:26.104140+00:00</updated>
+    <updated>2015-07-08T15:04:53.800222+00:00</updated>
     <content>CVS PHARMACY at 5111 GREENVILLE AVE scored 94</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1540671878303339322" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -23,7 +55,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2459932849587634689</id>
     <title>GIOVANNI CAFE at 1420 W MOCKINGBIRD LN scored 92</title>
-    <updated>2015-07-07T15:04:26.104313+00:00</updated>
+    <updated>2015-07-08T15:04:53.800290+00:00</updated>
     <content>GIOVANNI CAFE at 1420 W MOCKINGBIRD LN scored 92</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2459932849587634689" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -31,7 +63,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6338293875472192381</id>
     <title>ENERGY II DELI at 4849 GREENVILLE AVE scored 92</title>
-    <updated>2015-07-07T15:04:26.104383+00:00</updated>
+    <updated>2015-07-08T15:04:53.800355+00:00</updated>
     <content>ENERGY II DELI at 4849 GREENVILLE AVE scored 92</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6338293875472192381" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -39,7 +71,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7430271856468619260</id>
     <title>GRUB BURGER BAR &amp; GRILL at 4925 GREENVILLE AVE scored 91</title>
-    <updated>2015-07-07T15:04:26.104447+00:00</updated>
+    <updated>2015-07-08T15:04:53.800419+00:00</updated>
     <content>GRUB BURGER BAR &amp; GRILL at 4925 GREENVILLE AVE scored 91</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7430271856468619260" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -47,7 +79,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1289108303081739223</id>
     <title>SUBROC at 6688 N CENTRAL EXPW scored 88</title>
-    <updated>2015-07-07T15:04:26.104508+00:00</updated>
+    <updated>2015-07-08T15:04:53.800482+00:00</updated>
     <content>SUBROC at 6688 N CENTRAL EXPW scored 88</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1289108303081739223" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -55,23 +87,39 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4763224395795129169</id>
     <title>DOMINO'S PIZZA at 1820 W MOCKINGBIRD LN scored 88</title>
-    <updated>2015-07-07T15:04:26.104569+00:00</updated>
+    <updated>2015-07-08T15:04:53.800546+00:00</updated>
     <content>DOMINO'S PIZZA at 1820 W MOCKINGBIRD LN scored 88</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4763224395795129169" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/431109569209874017</id>
+    <title>CRISPY CHICKEN &amp; RICE at 2420 W ILLINOIS AVE scored 87</title>
+    <updated>2015-07-08T15:04:53.800608+00:00</updated>
+    <content>CRISPY CHICKEN &amp; RICE at 2420 W ILLINOIS AVE scored 87</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/431109569209874017" rel="alternate"/>
+    <published>2015-07-06T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1443750141053760453</id>
     <title>JIN'S DOUNUTS at 3628 FRANKFORD RD scored 84</title>
-    <updated>2015-07-07T15:04:26.104638+00:00</updated>
+    <updated>2015-07-08T15:04:53.800670+00:00</updated>
     <content>JIN'S DOUNUTS at 3628 FRANKFORD RD scored 84</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1443750141053760453" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6024757345832292214</id>
+    <title>EL POLLO REGIO at 2410 W ILLINOIS AVE scored 84</title>
+    <updated>2015-07-08T15:04:53.800733+00:00</updated>
+    <content>EL POLLO REGIO at 2410 W ILLINOIS AVE scored 84</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6024757345832292214" rel="alternate"/>
+    <published>2015-07-06T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3954975774214622848</id>
     <title>USA DONUTS &amp; CRIISANTS at 3001 N BUCKNER BLVD scored 83</title>
-    <updated>2015-07-07T15:04:26.104710+00:00</updated>
+    <updated>2015-07-08T15:04:53.800794+00:00</updated>
     <content>USA DONUTS &amp; CRIISANTS at 3001 N BUCKNER BLVD scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3954975774214622848" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -79,7 +127,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8100253322590662168</id>
     <title>FRAZIER COMMUNITY CENTER at 4846 HATCHER ST scored 83</title>
-    <updated>2015-07-07T15:04:26.104781+00:00</updated>
+    <updated>2015-07-08T15:04:53.800855+00:00</updated>
     <content>FRAZIER COMMUNITY CENTER at 4846 HATCHER ST scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8100253322590662168" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -87,7 +135,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6925681567402841074</id>
     <title>99 CENTS ONLY at 3632 FRANKFORD RD scored 83</title>
-    <updated>2015-07-07T15:04:26.104841+00:00</updated>
+    <updated>2015-07-08T15:04:53.800917+00:00</updated>
     <content>99 CENTS ONLY at 3632 FRANKFORD RD scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6925681567402841074" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -95,7 +143,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4797518183377763031</id>
     <title>WHATABURGER at 18253 MARSH LN scored 82</title>
-    <updated>2015-07-07T15:04:26.104900+00:00</updated>
+    <updated>2015-07-08T15:04:53.800979+00:00</updated>
     <content>WHATABURGER at 18253 MARSH LN scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4797518183377763031" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -103,7 +151,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4643071264501596659</id>
     <title>LAUREN'S CAFE 2 at 1111 W MOCKINGBIRD LN scored 82</title>
-    <updated>2015-07-07T15:04:26.104959+00:00</updated>
+    <updated>2015-07-08T15:04:53.801043+00:00</updated>
     <content>LAUREN'S CAFE 2 at 1111 W MOCKINGBIRD LN scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4643071264501596659" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -111,7 +159,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/5362375890368364833</id>
     <title>MURPHYS DELI at 4925 GREENVILLE AVE scored 81</title>
-    <updated>2015-07-07T15:04:26.105017+00:00</updated>
+    <updated>2015-07-08T15:04:53.801105+00:00</updated>
     <content>MURPHYS DELI at 4925 GREENVILLE AVE scored 81</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/5362375890368364833" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -119,7 +167,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2321089959815288727</id>
     <title>JOE'S BAR &amp; GRILL at 3636 FRANKFORD RD scored 81</title>
-    <updated>2015-07-07T15:04:26.105095+00:00</updated>
+    <updated>2015-07-08T15:04:53.801166+00:00</updated>
     <content>JOE'S BAR &amp; GRILL at 3636 FRANKFORD RD scored 81</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2321089959815288727" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -127,7 +175,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3852358932333782971</id>
     <title>CONCORD SONIC at 2945 N BUCKNER BLVD scored 76</title>
-    <updated>2015-07-07T15:04:26.105157+00:00</updated>
+    <updated>2015-07-08T15:04:53.801229+00:00</updated>
     <content>CONCORD SONIC at 2945 N BUCKNER BLVD scored 76</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3852358932333782971" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
@@ -135,23 +183,87 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8353134049523576096</id>
     <title>FAMOUS SMOKEY JOHNS' BBQ at 1820 W MOCKINGBIRD LN scored 73</title>
-    <updated>2015-07-07T15:04:26.105220+00:00</updated>
+    <updated>2015-07-08T15:04:53.801291+00:00</updated>
     <content>FAMOUS SMOKEY JOHNS' BBQ at 1820 W MOCKINGBIRD LN scored 73</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8353134049523576096" rel="alternate"/>
     <published>2015-07-06T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1886001490645626206</id>
+    <title>THIRSTY'S at 208 VALLEY VIEW MALL scored 97</title>
+    <updated>2015-07-08T15:04:53.801402+00:00</updated>
+    <content>THIRSTY'S at 208 VALLEY VIEW MALL scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1886001490645626206" rel="alternate"/>
+    <published>2015-07-05T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/4517498719238747138</id>
+    <title>TACO BELL #29886 at 13670 PRESTON RD scored 97</title>
+    <updated>2015-07-08T15:04:53.801469+00:00</updated>
+    <content>TACO BELL #29886 at 13670 PRESTON RD scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/4517498719238747138" rel="alternate"/>
+    <published>2015-07-05T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8322009935204277159</id>
+    <title>CAMPANIA PIZZA at 5301 ALPHA RD scored 97</title>
+    <updated>2015-07-08T15:04:53.801532+00:00</updated>
+    <content>CAMPANIA PIZZA at 5301 ALPHA RD scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8322009935204277159" rel="alternate"/>
+    <published>2015-07-05T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7873483430951864564</id>
+    <title>SUBWAY SANDWICHES at 13015 COIT RD scored 94</title>
+    <updated>2015-07-08T15:04:53.801594+00:00</updated>
+    <content>SUBWAY SANDWICHES at 13015 COIT RD scored 94</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7873483430951864564" rel="alternate"/>
+    <published>2015-07-05T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8005279827219173798</id>
+    <title>BIG MAMA'S CHICKEN &amp; WAFFLES at 9810 FOREST LN scored 91</title>
+    <updated>2015-07-08T15:04:53.801657+00:00</updated>
+    <content>BIG MAMA'S CHICKEN &amp; WAFFLES at 9810 FOREST LN scored 91</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8005279827219173798" rel="alternate"/>
+    <published>2015-07-05T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1074323111253790962</id>
+    <title>WAL-MART #3341 BAKERY at 2305 N CENTRAL EXPW scored 97</title>
+    <updated>2015-07-08T15:04:53.801718+00:00</updated>
+    <content>WAL-MART #3341 BAKERY at 2305 N CENTRAL EXPW scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1074323111253790962" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1118257049888343718</id>
     <title>RESIDENCE INN STORE at 6950 N STEMMONS FRWY scored 97</title>
-    <updated>2015-07-07T15:04:26.105282+00:00</updated>
+    <updated>2015-07-08T15:04:53.801780+00:00</updated>
     <content>RESIDENCE INN STORE at 6950 N STEMMONS FRWY scored 97</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1118257049888343718" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5282636928382711223</id>
+    <title>LA CALLE DOCE BAR &amp; COURTYARD at 415 W TWELTH ST scored 97</title>
+    <updated>2015-07-08T15:04:53.801843+00:00</updated>
+    <content>LA CALLE DOCE BAR &amp; COURTYARD at 415 W TWELTH ST scored 97</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5282636928382711223" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7464041650323361385</id>
+    <title>WAL-MART #3341 GROCERY at 2305 N CENTRAL EXPW scored 93</title>
+    <updated>2015-07-08T15:04:53.801904+00:00</updated>
+    <content>WAL-MART #3341 GROCERY at 2305 N CENTRAL EXPW scored 93</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7464041650323361385" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8850480125121724390</id>
     <title>RESIDENCE INN/DALLAS MKT CENTER at 6950 N STEMMONS FRWY scored 93</title>
-    <updated>2015-07-07T15:04:26.105364+00:00</updated>
+    <updated>2015-07-08T15:04:53.801966+00:00</updated>
     <content>RESIDENCE INN/DALLAS MKT CENTER at 6950 N STEMMONS FRWY scored 93</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8850480125121724390" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -159,15 +271,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2185711062335237728</id>
     <title>YOUNG DONUTS at 6102 SAMUELL BLVD scored 90</title>
-    <updated>2015-07-07T15:04:26.105426+00:00</updated>
+    <updated>2015-07-08T15:04:53.802028+00:00</updated>
     <content>YOUNG DONUTS at 6102 SAMUELL BLVD scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2185711062335237728" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5530901847771544209</id>
+    <title>WAL-MART #3341 DELI at 2305 N CENTRAL EXPW scored 90</title>
+    <updated>2015-07-08T15:04:53.802090+00:00</updated>
+    <content>WAL-MART #3341 DELI at 2305 N CENTRAL EXPW scored 90</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5530901847771544209" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2953131411003310253</id>
     <title>SUBWAY SANDWICHES at 17390 PRESTON RD scored 90</title>
-    <updated>2015-07-07T15:04:26.105504+00:00</updated>
+    <updated>2015-07-08T15:04:53.802151+00:00</updated>
     <content>SUBWAY SANDWICHES at 17390 PRESTON RD scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2953131411003310253" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -175,7 +295,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2821554085860174446</id>
     <title>MCDONALDS at 17250 PRESTON RD scored 87</title>
-    <updated>2015-07-07T15:04:26.105563+00:00</updated>
+    <updated>2015-07-08T15:04:53.802214+00:00</updated>
     <content>MCDONALDS at 17250 PRESTON RD scored 87</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2821554085860174446" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -183,7 +303,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6730418900279932026</id>
     <title>EMPIRE CENTRAL TEXACO at 8405 N STEMMONS FRWY scored 87</title>
-    <updated>2015-07-07T15:04:26.105632+00:00</updated>
+    <updated>2015-07-08T15:04:53.802277+00:00</updated>
     <content>EMPIRE CENTRAL TEXACO at 8405 N STEMMONS FRWY scored 87</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6730418900279932026" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -191,7 +311,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7375458866930377191</id>
     <title>M &amp; J FOOD STORE at 4441 LAWNVIEW AVE scored 86</title>
-    <updated>2015-07-07T15:04:26.105693+00:00</updated>
+    <updated>2015-07-08T15:04:53.802339+00:00</updated>
     <content>M &amp; J FOOD STORE at 4441 LAWNVIEW AVE scored 86</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7375458866930377191" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -199,15 +319,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1256285300745714799</id>
     <title>SCHLOTZSKY'S at 8235 N STEMMONS FRWY scored 85</title>
-    <updated>2015-07-07T15:04:26.105753+00:00</updated>
+    <updated>2015-07-08T15:04:53.802401+00:00</updated>
     <content>SCHLOTZSKY'S at 8235 N STEMMONS FRWY scored 85</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1256285300745714799" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/509005916158741689</id>
+    <title>BURGER KING #11862 at 102 E JEFFERSON BLVD scored 83</title>
+    <updated>2015-07-08T15:04:53.802497+00:00</updated>
+    <content>BURGER KING #11862 at 102 E JEFFERSON BLVD scored 83</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/509005916158741689" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8927018703193515585</id>
     <title>THE PIZZA GUY at 17390 PRESTON RD scored 82</title>
-    <updated>2015-07-07T15:04:26.105814+00:00</updated>
+    <updated>2015-07-08T15:04:53.802657+00:00</updated>
     <content>THE PIZZA GUY at 17390 PRESTON RD scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8927018703193515585" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -215,15 +343,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/178323136088271686</id>
     <title>DONUTS at 4441 LAWNVIEW ST scored 82</title>
-    <updated>2015-07-07T15:04:26.105874+00:00</updated>
+    <updated>2015-07-08T15:04:53.802741+00:00</updated>
     <content>DONUTS at 4441 LAWNVIEW ST scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/178323136088271686" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7101497023016807127</id>
+    <title>LA CALLE DOCE at 415 W TWELTH ST scored 81</title>
+    <updated>2015-07-08T15:04:53.802811+00:00</updated>
+    <content>LA CALLE DOCE at 415 W TWELTH ST scored 81</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7101497023016807127" rel="alternate"/>
+    <published>2015-07-02T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4767888174199242506</id>
     <title>ARFI SUSHI &amp; HIBACHI EXPRESS LLC at 17421 PRESTON RD scored 81</title>
-    <updated>2015-07-07T15:04:26.105934+00:00</updated>
+    <updated>2015-07-08T15:04:53.802877+00:00</updated>
     <content>ARFI SUSHI &amp; HIBACHI EXPRESS LLC at 17421 PRESTON RD scored 81</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4767888174199242506" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -231,7 +367,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8234445544031474037</id>
     <title>AA SHELL at 11404 N STEMMONS FRWY scored 73</title>
-    <updated>2015-07-07T15:04:26.106004+00:00</updated>
+    <updated>2015-07-08T15:04:53.802943+00:00</updated>
     <content>AA SHELL at 11404 N STEMMONS FRWY scored 73</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8234445544031474037" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -239,7 +375,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/5571293066437990532</id>
     <title>SONNY BRYAN'S SMOKEHOUSE at 5519 W LOVERS LN scored 83</title>
-    <updated>2015-07-07T15:04:26.106068+00:00</updated>
+    <updated>2015-07-08T15:04:53.803008+00:00</updated>
     <content>SONNY BRYAN'S SMOKEHOUSE at 5519 W LOVERS LN scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/5571293066437990532" rel="alternate"/>
     <published>2015-07-02T00:00:00-05:00</published>
@@ -247,7 +383,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/5504514283442885670</id>
     <title>TOM THUMB FUEL STATION at 14949 PRESTON RD scored 100</title>
-    <updated>2015-07-07T15:04:26.106139+00:00</updated>
+    <updated>2015-07-08T15:04:53.803072+00:00</updated>
     <content>TOM THUMB FUEL STATION at 14949 PRESTON RD scored 100</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/5504514283442885670" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -255,7 +391,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7457476253030141080</id>
     <title>AMC VALLEY VIEW 16 THEATRE at 2040 VALLEY VIEW MALL scored 95</title>
-    <updated>2015-07-07T15:04:26.106200+00:00</updated>
+    <updated>2015-07-08T15:04:53.803137+00:00</updated>
     <content>AMC VALLEY VIEW 16 THEATRE at 2040 VALLEY VIEW MALL scored 95</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7457476253030141080" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -263,15 +399,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4101035998584449725</id>
     <title>TACO BELL/ PIZZA HUT #371 at 8249 N STEMMONS FRWY scored 94</title>
-    <updated>2015-07-07T15:04:26.106261+00:00</updated>
+    <updated>2015-07-08T15:04:53.803201+00:00</updated>
     <content>TACO BELL/ PIZZA HUT #371 at 8249 N STEMMONS FRWY scored 94</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4101035998584449725" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/5144697621388508606</id>
+    <title>PETER PIPER PIZZA at 729 W JEFFERSON BLVD scored 94</title>
+    <updated>2015-07-08T15:04:53.803265+00:00</updated>
+    <content>PETER PIPER PIZZA at 729 W JEFFERSON BLVD scored 94</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/5144697621388508606" rel="alternate"/>
+    <published>2015-07-01T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/5652002500481352735</id>
     <title>BON APPETIT @ KOHL'S at 17657 WATERVIEW PKWY scored 93</title>
-    <updated>2015-07-07T15:04:26.106322+00:00</updated>
+    <updated>2015-07-08T15:04:53.803328+00:00</updated>
     <content>BON APPETIT @ KOHL'S at 17657 WATERVIEW PKWY scored 93</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/5652002500481352735" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -279,7 +423,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1401353868122912668</id>
     <title>RACK DADDY'S at 17509 COIT RD scored 91</title>
-    <updated>2015-07-07T15:04:26.106382+00:00</updated>
+    <updated>2015-07-08T15:04:53.803391+00:00</updated>
     <content>RACK DADDY'S at 17509 COIT RD scored 91</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1401353868122912668" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -287,7 +431,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1477651269054869648</id>
     <title>BURGER KING at 8383 N STEMMONS FRWY scored 91</title>
-    <updated>2015-07-07T15:04:26.106442+00:00</updated>
+    <updated>2015-07-08T15:04:53.803454+00:00</updated>
     <content>BURGER KING at 8383 N STEMMONS FRWY scored 91</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1477651269054869648" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -295,7 +439,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6302839047033289611</id>
     <title>JACK IN THE BOX #734 at 6355 E MOCKINGBIRD LN scored 90</title>
-    <updated>2015-07-07T15:04:26.106514+00:00</updated>
+    <updated>2015-07-08T15:04:53.803517+00:00</updated>
     <content>JACK IN THE BOX #734 at 6355 E MOCKINGBIRD LN scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6302839047033289611" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -303,7 +447,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1140077300868579857</id>
     <title>PALETERIA SAN MARCOS at 14203 COIT RD scored 87</title>
-    <updated>2015-07-07T15:04:26.106577+00:00</updated>
+    <updated>2015-07-08T15:04:53.803580+00:00</updated>
     <content>PALETERIA SAN MARCOS at 14203 COIT RD scored 87</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1140077300868579857" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -311,7 +455,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3603592328430065204</id>
     <title>A DONUT at 2829 WEBB CHAPEL EXT scored 86</title>
-    <updated>2015-07-07T15:04:26.106639+00:00</updated>
+    <updated>2015-07-08T15:04:53.803642+00:00</updated>
     <content>A DONUT at 2829 WEBB CHAPEL EXT scored 86</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3603592328430065204" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -319,15 +463,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/135579570870677380</id>
     <title>MAGIC FOOD MART at 2630 WALNUT HILL LN scored 85</title>
-    <updated>2015-07-07T15:04:26.106700+00:00</updated>
+    <updated>2015-07-08T15:04:53.803704+00:00</updated>
     <content>MAGIC FOOD MART at 2630 WALNUT HILL LN scored 85</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/135579570870677380" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/1149258597574337468</id>
+    <title>COOL &amp; HOT at 930 E EIGHTH ST scored 84</title>
+    <updated>2015-07-08T15:04:53.803767+00:00</updated>
+    <content>COOL &amp; HOT at 930 E EIGHTH ST scored 84</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/1149258597574337468" rel="alternate"/>
+    <published>2015-07-01T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1965509962842955067</id>
     <title>MILANO'S RESTAURANT at 7659 MCCALLUM BLVD scored 83</title>
-    <updated>2015-07-07T15:04:26.106763+00:00</updated>
+    <updated>2015-07-08T15:04:53.803831+00:00</updated>
     <content>MILANO'S RESTAURANT at 7659 MCCALLUM BLVD scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1965509962842955067" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -335,15 +487,31 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1435903040066533080</id>
     <title>BOSTON MARKET #971 at 6333 E MOCKINGBIRD LN scored 82</title>
-    <updated>2015-07-07T15:04:26.106825+00:00</updated>
+    <updated>2015-07-08T15:04:53.803895+00:00</updated>
     <content>BOSTON MARKET #971 at 6333 E MOCKINGBIRD LN scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1435903040066533080" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/8510144069744124283</id>
+    <title>GONZALEZ RESTAURANT at 367 W JEFFERSON BLVD scored 81</title>
+    <updated>2015-07-08T15:04:53.803957+00:00</updated>
+    <content>GONZALEZ RESTAURANT at 367 W JEFFERSON BLVD scored 81</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/8510144069744124283" rel="alternate"/>
+    <published>2015-07-01T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7451773102619012058</id>
+    <title>PANCHITAS at 720 E JEFFERSON BLVD scored 80</title>
+    <updated>2015-07-08T15:04:53.804020+00:00</updated>
+    <content>PANCHITAS at 720 E JEFFERSON BLVD scored 80</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7451773102619012058" rel="alternate"/>
+    <published>2015-07-01T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2629977679577660357</id>
     <title>MR. K FOOD MART at 7859 MCCALLUM BLVD scored 80</title>
-    <updated>2015-07-07T15:04:26.106886+00:00</updated>
+    <updated>2015-07-08T15:04:53.804082+00:00</updated>
     <content>MR. K FOOD MART at 7859 MCCALLUM BLVD scored 80</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2629977679577660357" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -351,7 +519,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8924888897660225246</id>
     <title>7-ELEVEN #35414A at 15707 HILLCREST RD scored 80</title>
-    <updated>2015-07-07T15:04:26.106949+00:00</updated>
+    <updated>2015-07-08T15:04:53.804145+00:00</updated>
     <content>7-ELEVEN #35414A at 15707 HILLCREST RD scored 80</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8924888897660225246" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -359,7 +527,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4152829979332094900</id>
     <title>FUEL TOWN FUEL CITY TAQUERIA at 2201 W NORTHWEST HWY scored 76</title>
-    <updated>2015-07-07T15:04:26.107010+00:00</updated>
+    <updated>2015-07-08T15:04:53.804206+00:00</updated>
     <content>FUEL TOWN FUEL CITY TAQUERIA at 2201 W NORTHWEST HWY scored 76</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4152829979332094900" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -367,7 +535,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6901964129484913723</id>
     <title>ASO ROCK RESTAURANT &amp; LOUNGE at 9220 SKILLMAN ST scored 70</title>
-    <updated>2015-07-07T15:04:26.107071+00:00</updated>
+    <updated>2015-07-08T15:04:53.804268+00:00</updated>
     <content>ASO ROCK RESTAURANT &amp; LOUNGE at 9220 SKILLMAN ST scored 70</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6901964129484913723" rel="alternate"/>
     <published>2015-07-01T00:00:00-05:00</published>
@@ -375,7 +543,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/156926014949883052</id>
     <title>COURTYARD DALLAS MEDICAL/MARKET CENTER at 2150 MARKET CENTER BLVD scored 96</title>
-    <updated>2015-07-07T15:04:26.107132+00:00</updated>
+    <updated>2015-07-08T15:04:53.804329+00:00</updated>
     <content>COURTYARD DALLAS MEDICAL/MARKET CENTER at 2150 MARKET CENTER BLVD scored 96</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/156926014949883052" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -383,7 +551,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6244963866467013056</id>
     <title>MOTION at 2995 S WESTMORELAND RD scored 94</title>
-    <updated>2015-07-07T15:04:26.107195+00:00</updated>
+    <updated>2015-07-08T15:04:53.804392+00:00</updated>
     <content>MOTION at 2995 S WESTMORELAND RD scored 94</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6244963866467013056" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -391,7 +559,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/5516244173037317264</id>
     <title>LA ADELITA MEAT at 7630 MILITARY PKWY scored 90</title>
-    <updated>2015-07-07T15:04:26.107257+00:00</updated>
+    <updated>2015-07-08T15:04:53.804454+00:00</updated>
     <content>LA ADELITA MEAT at 7630 MILITARY PKWY scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/5516244173037317264" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -399,7 +567,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/953011034684972555</id>
     <title>7-ELEVEN at 2607 N STEMMONS FRWY scored 88</title>
-    <updated>2015-07-07T15:04:26.107319+00:00</updated>
+    <updated>2015-07-08T15:04:53.804517+00:00</updated>
     <content>7-ELEVEN at 2607 N STEMMONS FRWY scored 88</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/953011034684972555" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -407,7 +575,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3366333140028484000</id>
     <title>WHATABURGER #707 at 2741 N STEMMONS FRWY scored 86</title>
-    <updated>2015-07-07T15:04:26.107386+00:00</updated>
+    <updated>2015-07-08T15:04:53.804579+00:00</updated>
     <content>WHATABURGER #707 at 2741 N STEMMONS FRWY scored 86</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3366333140028484000" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -415,7 +583,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2765664619805608174</id>
     <title>LA ADELITA RESTAURANT at 7630 MILITARY PKWY scored 86</title>
-    <updated>2015-07-07T15:04:26.107448+00:00</updated>
+    <updated>2015-07-08T15:04:53.804642+00:00</updated>
     <content>LA ADELITA RESTAURANT at 7630 MILITARY PKWY scored 86</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2765664619805608174" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -423,7 +591,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4185534874824937085</id>
     <title>MCDONALDS at 9403 GARLAND RD scored 85</title>
-    <updated>2015-07-07T15:04:26.107514+00:00</updated>
+    <updated>2015-07-08T15:04:53.804704+00:00</updated>
     <content>MCDONALDS at 9403 GARLAND RD scored 85</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4185534874824937085" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -431,7 +599,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3613705697896107211</id>
     <title>SHARAZ MEDITERRANEAN GRILL at 18101 PRESTON RD scored 84</title>
-    <updated>2015-07-07T15:04:26.107580+00:00</updated>
+    <updated>2015-07-08T15:04:53.804766+00:00</updated>
     <content>SHARAZ MEDITERRANEAN GRILL at 18101 PRESTON RD scored 84</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3613705697896107211" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -439,7 +607,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7504568577104163019</id>
     <title>ALBERTSON'S #4289 MEAT at 320 CASA LINDA PLAZA scored 83</title>
-    <updated>2015-07-07T15:04:26.107646+00:00</updated>
+    <updated>2015-07-08T15:04:53.804828+00:00</updated>
     <content>ALBERTSON'S #4289 MEAT at 320 CASA LINDA PLAZA scored 83</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7504568577104163019" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -447,7 +615,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7859748096866375638</id>
     <title>STOP &amp; SALE FOOD MART at 3033 S WESTMORELAND RD scored 82</title>
-    <updated>2015-07-07T15:04:26.107708+00:00</updated>
+    <updated>2015-07-08T15:04:53.804889+00:00</updated>
     <content>STOP &amp; SALE FOOD MART at 3033 S WESTMORELAND RD scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7859748096866375638" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -455,7 +623,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2108829103696422519</id>
     <title>M DONUT SHOP at 9181 BRUTON RD scored 82</title>
-    <updated>2015-07-07T15:04:26.107774+00:00</updated>
+    <updated>2015-07-08T15:04:53.804950+00:00</updated>
     <content>M DONUT SHOP at 9181 BRUTON RD scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2108829103696422519" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -463,7 +631,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6596130921599209233</id>
     <title>LA TIA ESTELA MEXICAN at 2967 S WESTMORELAND RD scored 82</title>
-    <updated>2015-07-07T15:04:26.107840+00:00</updated>
+    <updated>2015-07-08T15:04:53.805012+00:00</updated>
     <content>LA TIA ESTELA MEXICAN at 2967 S WESTMORELAND RD scored 82</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6596130921599209233" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -471,15 +639,31 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/256469148362888340</id>
     <title>SUBWAY SANDWICHES at 4353 GANNON LN scored 81</title>
-    <updated>2015-07-07T15:04:26.107906+00:00</updated>
+    <updated>2015-07-08T15:04:53.805074+00:00</updated>
     <content>SUBWAY SANDWICHES at 4353 GANNON LN scored 81</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/256469148362888340" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7790323340505172464</id>
+    <title>S CENTRAL 1ST GAS BEER &amp; WINE at 2111 S CENTRAL EXPW scored 81</title>
+    <updated>2015-07-08T15:04:53.805137+00:00</updated>
+    <content>S CENTRAL 1ST GAS BEER &amp; WINE at 2111 S CENTRAL EXPW scored 81</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7790323340505172464" rel="alternate"/>
+    <published>2015-06-30T00:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/3054823105884966077</id>
+    <title>WINGS &amp; MORE PLACE at 7455 S WESTMORELAND RD scored 80</title>
+    <updated>2015-07-08T15:04:53.805200+00:00</updated>
+    <content>WINGS &amp; MORE PLACE at 7455 S WESTMORELAND RD scored 80</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/3054823105884966077" rel="alternate"/>
+    <published>2015-06-30T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/2237667038671494374</id>
     <title>VICKERY PARK at 2810 N HENDERSON AVE scored 80</title>
-    <updated>2015-07-07T15:04:26.107968+00:00</updated>
+    <updated>2015-07-08T15:04:53.805261+00:00</updated>
     <content>VICKERY PARK at 2810 N HENDERSON AVE scored 80</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/2237667038671494374" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -487,7 +671,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/193698694914940462</id>
     <title>SISSY'S at 2929 N HENDERSON AVE scored 80</title>
-    <updated>2015-07-07T15:04:26.108035+00:00</updated>
+    <updated>2015-07-08T15:04:53.805323+00:00</updated>
     <content>SISSY'S at 2929 N HENDERSON AVE scored 80</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/193698694914940462" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -495,15 +679,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6252597091110027705</id>
     <title>MESERO MIGUEL at 2822 N HENDERSON AVE scored 80</title>
-    <updated>2015-07-07T15:04:26.108102+00:00</updated>
+    <updated>2015-07-08T15:04:53.805385+00:00</updated>
     <content>MESERO MIGUEL at 2822 N HENDERSON AVE scored 80</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6252597091110027705" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/6310996146032077123</id>
+    <title>CAPRIOTTI'S at 1800 MAIN ST scored 80</title>
+    <updated>2015-07-08T15:04:53.805446+00:00</updated>
+    <content>CAPRIOTTI'S at 1800 MAIN ST scored 80</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/6310996146032077123" rel="alternate"/>
+    <published>2015-06-30T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/7199707862742598741</id>
     <title>BRUTON STORE at 9199 BRUTON RD scored 79</title>
-    <updated>2015-07-07T15:04:26.108167+00:00</updated>
+    <updated>2015-07-08T15:04:53.805509+00:00</updated>
     <content>BRUTON STORE at 9199 BRUTON RD scored 79</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/7199707862742598741" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -511,7 +703,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4319259358305291427</id>
     <title>ALAMO CONVENIENCE STORE at 10545 MAYLEE BLVD scored 74</title>
-    <updated>2015-07-07T15:04:26.108229+00:00</updated>
+    <updated>2015-07-08T15:04:53.805571+00:00</updated>
     <content>ALAMO CONVENIENCE STORE at 10545 MAYLEE BLVD scored 74</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4319259358305291427" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
@@ -519,15 +711,23 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/9168424881281223170</id>
     <title>LOS ABUELITOS at 9888 FERGUSON RD scored 72</title>
-    <updated>2015-07-07T15:04:26.108295+00:00</updated>
+    <updated>2015-07-08T15:04:53.805632+00:00</updated>
     <content>LOS ABUELITOS at 9888 FERGUSON RD scored 72</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/9168424881281223170" rel="alternate"/>
     <published>2015-06-30T00:00:00-05:00</published>
   </entry>
   <entry>
+    <id>http://pgriess.github.io/dallas-foodscores/#!/7315584103608509810</id>
+    <title>WILD SALSA at 1800 MAIN ST scored 69</title>
+    <updated>2015-07-08T15:04:53.805700+00:00</updated>
+    <content>WILD SALSA at 1800 MAIN ST scored 69</content>
+    <link href="http://pgriess.github.io/dallas-foodscores/#!/7315584103608509810" rel="alternate"/>
+    <published>2015-06-30T00:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/6746562594450258398</id>
     <title>THE AMADI GUESS FOUNDATION at 7700 BROOKHOLLOW DR scored 100</title>
-    <updated>2015-07-07T15:04:26.108359+00:00</updated>
+    <updated>2015-07-08T15:04:53.805775+00:00</updated>
     <content>THE AMADI GUESS FOUNDATION at 7700 BROOKHOLLOW DR scored 100</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/6746562594450258398" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -535,7 +735,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3038038597877915954</id>
     <title>LUCKY TEXAS #2 at 3603 MARVIN D LOVE FRWY scored 100</title>
-    <updated>2015-07-07T15:04:26.108424+00:00</updated>
+    <updated>2015-07-08T15:04:53.805842+00:00</updated>
     <content>LUCKY TEXAS #2 at 3603 MARVIN D LOVE FRWY scored 100</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3038038597877915954" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -543,7 +743,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1463184469334799142</id>
     <title>DISCOUNT GAS &amp; FOOD MART at 7505 C F HAWN FRWY scored 97</title>
-    <updated>2015-07-07T15:04:26.108486+00:00</updated>
+    <updated>2015-07-08T15:04:53.805908+00:00</updated>
     <content>DISCOUNT GAS &amp; FOOD MART at 7505 C F HAWN FRWY scored 97</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1463184469334799142" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -551,7 +751,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3055721314561406479</id>
     <title>LUCKY TEXAS #2 at 3603 MARVIN D LOVE FRWY scored 96</title>
-    <updated>2015-07-07T15:04:26.108552+00:00</updated>
+    <updated>2015-07-08T15:04:53.805970+00:00</updated>
     <content>LUCKY TEXAS #2 at 3603 MARVIN D LOVE FRWY scored 96</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3055721314561406479" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -559,7 +759,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8229992428604206361</id>
     <title>BOCCE at 244 W DAVIS ST scored 93</title>
-    <updated>2015-07-07T15:04:26.108618+00:00</updated>
+    <updated>2015-07-08T15:04:53.806068+00:00</updated>
     <content>BOCCE at 244 W DAVIS ST scored 93</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8229992428604206361" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -567,7 +767,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1508789566618679702</id>
     <title>SUBWAY at 19004 MIDWAY RD scored 90</title>
-    <updated>2015-07-07T15:04:26.108683+00:00</updated>
+    <updated>2015-07-08T15:04:53.806135+00:00</updated>
     <content>SUBWAY at 19004 MIDWAY RD scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1508789566618679702" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -575,7 +775,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/4546166697855582969</id>
     <title>MALONES COST PLUS #3 at 3939 S POLK ST scored 90</title>
-    <updated>2015-07-07T15:04:26.108745+00:00</updated>
+    <updated>2015-07-08T15:04:53.806201+00:00</updated>
     <content>MALONES COST PLUS #3 at 3939 S POLK ST scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/4546166697855582969" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -583,7 +783,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3285597502321652463</id>
     <title>HAMPTON FOOD MART at 5707 MARVIN D LOVE FRWY scored 90</title>
-    <updated>2015-07-07T15:04:26.108810+00:00</updated>
+    <updated>2015-07-08T15:04:53.806263+00:00</updated>
     <content>HAMPTON FOOD MART at 5707 MARVIN D LOVE FRWY scored 90</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3285597502321652463" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -591,7 +791,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/8979821295164578662</id>
     <title>A LA CARTE CAKES AND CATE at 2750 NORTHAVEN RD scored 89</title>
-    <updated>2015-07-07T15:04:26.108876+00:00</updated>
+    <updated>2015-07-08T15:04:53.806328+00:00</updated>
     <content>A LA CARTE CAKES AND CATE at 2750 NORTHAVEN RD scored 89</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/8979821295164578662" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -599,7 +799,7 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/3786732397699077752</id>
     <title>TAQUERIA LA UNION at 6326 C F HAWN FRWY scored 88</title>
-    <updated>2015-07-07T15:04:26.108941+00:00</updated>
+    <updated>2015-07-08T15:04:53.806394+00:00</updated>
     <content>TAQUERIA LA UNION at 6326 C F HAWN FRWY scored 88</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/3786732397699077752" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
@@ -607,210 +807,10 @@ Food inspection scores from the official City of Dallas dataset; updated daily
   <entry>
     <id>http://pgriess.github.io/dallas-foodscores/#!/1756677338425453644</id>
     <title>SPEED MAX #6 at 9531 C F HAWN FRWY scored 87</title>
-    <updated>2015-07-07T15:04:26.109003+00:00</updated>
+    <updated>2015-07-08T15:04:53.806460+00:00</updated>
     <content>SPEED MAX #6 at 9531 C F HAWN FRWY scored 87</content>
     <link href="http://pgriess.github.io/dallas-foodscores/#!/1756677338425453644" rel="alternate"/>
     <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/40789095969258470</id>
-    <title>S &amp; B STORE at 9606 C F HAWN FRWY scored 87</title>
-    <updated>2015-07-07T15:04:26.109069+00:00</updated>
-    <content>S &amp; B STORE at 9606 C F HAWN FRWY scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/40789095969258470" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1534059602219183638</id>
-    <title>PHILADELPHIA CHEESE STEAK COMPANY at 7101 HARRY HINES BLVD scored 86</title>
-    <updated>2015-07-07T15:04:26.109135+00:00</updated>
-    <content>PHILADELPHIA CHEESE STEAK COMPANY at 7101 HARRY HINES BLVD scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1534059602219183638" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4267779790315542531</id>
-    <title>CUP CAKIN at 1150 EMPIRE CENTRAL DR scored 86</title>
-    <updated>2015-07-07T15:04:26.109200+00:00</updated>
-    <content>CUP CAKIN at 1150 EMPIRE CENTRAL DR scored 86</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4267779790315542531" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1000332750840668427</id>
-    <title>LUCKY TEXAS #2 / TAQUERIA at 3603 MARVIN D LOVE FRWY scored 83</title>
-    <updated>2015-07-07T15:04:26.109262+00:00</updated>
-    <content>LUCKY TEXAS #2 / TAQUERIA at 3603 MARVIN D LOVE FRWY scored 83</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1000332750840668427" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7701901791377355211</id>
-    <title>SOME TIME at 2930 WALNUT HILL LN scored 82</title>
-    <updated>2015-07-07T15:04:26.109328+00:00</updated>
-    <content>SOME TIME at 2930 WALNUT HILL LN scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7701901791377355211" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4898065395554299548</id>
-    <title>CHURCHS CHICKEN at 19059 MARSH LN scored 82</title>
-    <updated>2015-07-07T15:04:26.109395+00:00</updated>
-    <content>CHURCHS CHICKEN at 19059 MARSH LN scored 82</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4898065395554299548" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6141614987083829859</id>
-    <title>LA FAMILIA MEAT MARKET BEER AND WINE &amp; TAQUERIA at 17602 KELLY BLVD scored 81</title>
-    <updated>2015-07-07T15:04:26.109460+00:00</updated>
-    <content>LA FAMILIA MEAT MARKET BEER AND WINE &amp; TAQUERIA at 17602 KELLY BLVD scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6141614987083829859" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6454318029800854259</id>
-    <title>13356 QUIKTRIP 3904 at 6060 SKILLMAN ST scored 81</title>
-    <updated>2015-07-07T15:04:26.109522+00:00</updated>
-    <content>13356 QUIKTRIP 3904 at 6060 SKILLMAN ST scored 81</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6454318029800854259" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/3443531491652505430</id>
-    <title>SUBWAY at 2636 FRANKFORD RD scored 80</title>
-    <updated>2015-07-07T15:04:26.109587+00:00</updated>
-    <content>SUBWAY at 2636 FRANKFORD RD scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/3443531491652505430" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1283135855570225244</id>
-    <title>FOUR SEASONS FOOD MART at 19090 MARSH LN scored 80</title>
-    <updated>2015-07-07T15:04:26.109653+00:00</updated>
-    <content>FOUR SEASONS FOOD MART at 19090 MARSH LN scored 80</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1283135855570225244" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6149679029723834917</id>
-    <title>TEXAS GROCERY at 3400 SAMUELL BLVD scored 74</title>
-    <updated>2015-07-07T15:04:26.109719+00:00</updated>
-    <content>TEXAS GROCERY at 3400 SAMUELL BLVD scored 74</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6149679029723834917" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7516015176302258693</id>
-    <title>S &amp; B STORE at 9606 C F HAWN FRWY scored 72</title>
-    <updated>2015-07-07T15:04:26.109780+00:00</updated>
-    <content>S &amp; B STORE at 9606 C F HAWN FRWY scored 72</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7516015176302258693" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4380475521757983022</id>
-    <title>MI SAZON MEXICAN RESTAURANT at 3505 S POLK ST scored 72</title>
-    <updated>2015-07-07T15:04:26.109845+00:00</updated>
-    <content>MI SAZON MEXICAN RESTAURANT at 3505 S POLK ST scored 72</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4380475521757983022" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5337185463020108442</id>
-    <title>SWIFT-T at 2908 SAMUELL BLVD scored 71</title>
-    <updated>2015-07-07T15:04:26.109911+00:00</updated>
-    <content>SWIFT-T at 2908 SAMUELL BLVD scored 71</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5337185463020108442" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/7434539325150582009</id>
-    <title>EL FENIX at 240 WEBB CHAPEL VILLAGE scored 58</title>
-    <updated>2015-07-07T15:04:26.109986+00:00</updated>
-    <content>EL FENIX at 240 WEBB CHAPEL VILLAGE scored 58</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/7434539325150582009" rel="alternate"/>
-    <published>2015-06-29T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6936680008110313441</id>
-    <title>FLAMINGO BEER WINE BEVERAGE at 14444 DALLAS PKWY scored 100</title>
-    <updated>2015-07-07T15:04:26.110045+00:00</updated>
-    <content>FLAMINGO BEER WINE BEVERAGE at 14444 DALLAS PKWY scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6936680008110313441" rel="alternate"/>
-    <published>2015-06-27T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/705985390285504163</id>
-    <title>SUBWAY #24110 at 14891 PRESTON RD scored 93</title>
-    <updated>2015-07-07T15:04:26.110108+00:00</updated>
-    <content>SUBWAY #24110 at 14891 PRESTON RD scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/705985390285504163" rel="alternate"/>
-    <published>2015-06-27T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1609526019570197188</id>
-    <title>ROMAN CUCIZA at 7989 BELTLINE RD scored 87</title>
-    <updated>2015-07-07T15:04:26.110170+00:00</updated>
-    <content>ROMAN CUCIZA at 7989 BELTLINE RD scored 87</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1609526019570197188" rel="alternate"/>
-    <published>2015-06-27T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/558233996663467782</id>
-    <title>RAZOO'S CAJUN CAFE at 13949 N CENTRAL EXPW scored 83</title>
-    <updated>2015-07-07T15:04:26.110231+00:00</updated>
-    <content>RAZOO'S CAJUN CAFE at 13949 N CENTRAL EXPW scored 83</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/558233996663467782" rel="alternate"/>
-    <published>2015-06-27T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/401940569381203387</id>
-    <title>CHICK-FIL-A at 3820 W NORTHWEST HWY scored 100</title>
-    <updated>2015-07-07T15:04:26.110289+00:00</updated>
-    <content>CHICK-FIL-A at 3820 W NORTHWEST HWY scored 100</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/401940569381203387" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/1442372166240905592</id>
-    <title>MARTIN WEISS MEMORIAL AME at 2804 S COCKRELL HILL RD scored 97</title>
-    <updated>2015-07-07T15:04:26.110351+00:00</updated>
-    <content>MARTIN WEISS MEMORIAL AME at 2804 S COCKRELL HILL RD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/1442372166240905592" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/4826764533412269862</id>
-    <title>KINKI LOUNGE at 3606 GREENVILLE AVE scored 97</title>
-    <updated>2015-07-07T15:04:26.110412+00:00</updated>
-    <content>KINKI LOUNGE at 3606 GREENVILLE AVE scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/4826764533412269862" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/182173035091779512</id>
-    <title>FIESTA MART #74 MEAT/SEAFOOD at 11445 GARLAND RD scored 97</title>
-    <updated>2015-07-07T15:04:26.110474+00:00</updated>
-    <content>FIESTA MART #74 MEAT/SEAFOOD at 11445 GARLAND RD scored 97</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/182173035091779512" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/5376027162495942902</id>
-    <title>"HOME" at 5627 DYER ST scored 96</title>
-    <updated>2015-07-07T15:04:26.110531+00:00</updated>
-    <content>"HOME" at 5627 DYER ST scored 96</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/5376027162495942902" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>http://pgriess.github.io/dallas-foodscores/#!/6697547806770964226</id>
-    <title>TODOS AMIGOS at 2915 COMMUNITY DR scored 93</title>
-    <updated>2015-07-07T15:04:26.110593+00:00</updated>
-    <content>TODOS AMIGOS at 2915 COMMUNITY DR scored 93</content>
-    <link href="http://pgriess.github.io/dallas-foodscores/#!/6697547806770964226" rel="alternate"/>
-    <published>2015-06-26T00:00:00-05:00</published>
   </entry>
 </feed>
 
